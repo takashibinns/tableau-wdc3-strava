@@ -5,6 +5,7 @@ manifest.xml
 oauth-config.xml
 *.taco
 
+
 # Logs
 log*
 logs
@@ -110,3 +111,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+.DS_Store
