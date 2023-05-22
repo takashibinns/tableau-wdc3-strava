@@ -1,0 +1,4229 @@
+{
+    "activities" :[
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Morning Ride",
+            "distance": 25049.9,
+            "moving_time": 4330,
+            "elapsed_time": 4578,
+            "total_elevation_gain": 131.0,
+            "type": "Ride",
+            "sport_type": "Ride",
+            "workout_type": null,
+            "id": 9046214207,
+            "start_date": "2023-05-10T13:31:48Z",
+            "start_date_local": "2023-05-10T09:31:48Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 1,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a9046214207",
+                "summary_polyline": "{n}xF~hmcMi@Fa@K_BiFMO]C_Ct@_@?y@SuWfIoDx@oC{CkMoQg@WwBmBir@ko@kBuAkFqCnG{Bf@eEjAF@RQzBKJmGrBIO`D}\\MQ_D}@iACcC^_@MCIbFua@GeAfBkNdAuKfAiQ[[uGaAeEyBIMFYd@}AMc@gEeCyBc@a@c@mBu@o@cBCaCXwAbAyA`Ai@tAYxAF`Af@fCzBlDmAdAKz@~ALxA~@tAh@nBr@tAv@~@nAv@jCtEfAbAjFbBrAAhAo@fDu@nA^lCxAjBa@hFIt@w@fCkGb@cETk@b@i@l@Qb@Jr@t@nCpAjDhApAVxCDrD~FnEpGfFzFd@v@zAtAHRBbATXj@\\r@m@T?tBlAbAc@v@gD`@g@~CKnBeApAQbBlBvD\\hAInD_AjC]`Bw@hAIjB_AV[xAoDX?lA`AXQjBuE`CuEtBaDzAaAzAa@|FWZBxAfBTHx@SnABxDt@vA@bDo@hEaBpBIxDiBjEcBdB_@rCKpAYhDNrDt@hCElATP_@hAq@DcDJYz@MdDcB`Cs@hA{@b@y@PGh@b@xANr@v@rAHtAeAd@v@^PPMFWEmAVc@x@VrBKhALtA|@h@BvEmC~Ao@lEl@h@Qx@q@nBCnCa@f@L\\ZdAhAf@dAz@a@dBi@hAMrF`BlJlEhDNdBoBdBi@l@C`BoAbDkDxD{Cv@{ApFoEbDaIhBmDjBkH\\i@d@wAh@u@dAc@fM{CvC@`BVzAr@rAu@JeCGWoCe@kBg@aAA}AH}Cl@sBJwAZcAj@e@ByIrEc@fA[fFeAjHo@zAmFhIsDrEmCjCiDzBCh@d@vAAVqAfAm@AmA\\uAxAaAvABtAU`Ac@\\e@BgFaA_OkDo@}@{@kDUWI{@MK_AAaBsAwDl@{ABw@l@}@XcEc@}GlD_@FwBkA_AKqBHw@[]l@@|AYVWKa@s@MEaBbAgBm@OUk@U]g@UEu@Ny@hAaAp@_B^eEvB{@PQ|DWVcGb@wCo@wESqBXeBBoATuEbBmEvB{AFyGpByC\\u@AqDs@uAEs@RUG}AmBeEJ}APeCdAqAtAmCtEoDdISFaAw@[?aBnDQNyBx@aANaBt@{IlBiBC}Bc@uAcBWC{A`@eAr@oDR[Xw@`D[b@{@F{AgAWCUNaCfGiAnBeEvJ_A|AkDfEcDpByAZo@\\s@dAwAVd@jBJrBSvAa@xAgA|AIb@J~CMtCLxC",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [
+                40.95096794888377,
+                -74.12816083990037
+            ],
+            "end_latlng": [
+                40.96026892773807,
+                -74.11402735859156
+            ],
+            "average_speed": 5.785,
+            "max_speed": 10.648,
+            "average_temp": 21,
+            "average_watts": 80.5,
+            "kilojoules": 348.7,
+            "device_watts": false,
+            "has_heartrate": true,
+            "average_heartrate": 122.6,
+            "max_heartrate": 147.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 50.8,
+            "elev_low": 9.4,
+            "upload_id": 9705028831,
+            "upload_id_str": "9705028831",
+            "external_id": "garmin_ping_273528563331",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Morning Run",
+            "distance": 6634.7,
+            "moving_time": 1752,
+            "elapsed_time": 1752,
+            "total_elevation_gain": 18.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 9039672373,
+            "start_date": "2023-05-09T13:22:06Z",
+            "start_date_local": "2023-05-09T09:22:06Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 4,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a9039672373",
+                "summary_polyline": "}s~xFxwhcMbAu@LOp@cAVYvAwBf@iAr@oAZgAtA_Ex@kAd@wAn@sALe@Ri@d@g@\\?pA~@`@TL?^MVQ^uBLg@Ze@b@SlA?hAIPI^YZMd@?HAPKVC`BrA`BZ~@HdBMTKlAOFEb@MJ?h@O|@Kr@M`@MlAm@j@Gf@OhB}@r@yAv@kALAt@`@RD`@C|DeJ~BaE`AiAvBk@f@Ul@Ib@@vAEt@Kh@ArAtALPRNtAU|@?n@JpAZd@Hz@DhBGNE\\Cj@K`Bk@XMXS`@K^Wb@I|@A\\CpAg@`Am@vAk@BEaAf@g@`@{@h@qAh@SF}@Au@Jg@Vc@NkAh@SLaBb@kANe@Bq@A}AWuA_@o@Ga@Am@PUEk@_AWYYKISOAmARu@AoAHcARuA^c@TyAvA[f@q@~AY~@W`@[j@c@rAYd@Yr@W^k@pAOHEAw@m@c@QQBgAbBSp@q@b@iBr@g@DwAr@c@Hm@Be@Nm@LqAb@wA^}@Fe@EY?qAQc@Q]Sc@q@SU]OQHkAR}@~@cAFyABKDc@ZiAlDYRc@HUEa@Wk@e@_@SG?[NYd@MJi@lA]dB[l@iAvAOr@CDUb@Qr@yAjEk@~@gApAc@r@g@n@Uf@a@d@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.95992007292807,
+                -74.10715654492378
+            ],
+            "end_latlng": [
+                40.95979543402791,
+                -74.10689201205969
+            ],
+            "average_speed": 3.787,
+            "max_speed": 4.84,
+            "average_cadence": 78.3,
+            "average_temp": 24,
+            "has_heartrate": true,
+            "average_heartrate": 166.3,
+            "max_heartrate": 180.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 22.2,
+            "elev_low": 14.2,
+            "upload_id": 9698040127,
+            "upload_id_str": "9698040127",
+            "external_id": "garmin_ping_273352930060",
+            "from_accepted_tag": false,
+            "pr_count": 1,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Ride",
+            "distance": 25908.7,
+            "moving_time": 4076,
+            "elapsed_time": 4091,
+            "total_elevation_gain": 155.0,
+            "type": "Ride",
+            "sport_type": "Ride",
+            "workout_type": null,
+            "id": 9035724182,
+            "start_date": "2023-05-08T18:41:10Z",
+            "start_date_local": "2023-05-08T14:41:10Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 4,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a9035724182",
+                "summary_polyline": "ao}xFnhmcMm@Hc@UsAoFwDl@YaAcAiHVm@`Be@`Bd@tFwAd@o@^oAj@mDmFq\\_@{EGqLYmCmCwOiKfDkTrG_@Ao@u@SFm@t@kCsM]gDK_FBsBRq@jBeD\\oCEeAe@eB@e@~@KxA{AfDiAvCaC|BmClCsElByFxBuEdAcDz@a@rAjAp@Dp@a@h@oC\\k@dEUfA{@nAYtBlBpA\\jB@tHaBdACdBaAlAMvBiAzAkDPCrAz@VUbG{LnAmBxBcBtAa@tFSdAX`AtAbBUlG~@hD]lG{BzAApL}EbBYrB?fDWpCTbBf@rCG~@\\l@k@~@i@ZuDlA]bDcBtAYtAcAx@gAl@`@tALp@z@hB@|@y@n@z@VJ^g@CqAR]j@PjBMpALlChArH{DjEf@jB}@xCQ`Ba@`BfAjA|An@BhAbE`@j@\\JjV|Ex@_@RuAAkAKOqBMsAa@_MyFmA{@iA?gAq@mDx@yBwA_Cf@_CHaB`AaF_@sHxD_BcAaASqCDw@UY`@@rAUl@WEu@cAmAdAqA?cCaCW?w@Pu@hAqAv@mAR}DpBw@JQ^E~Co@f@aGX{Bo@}EUiF^kGlB{EzBgBL{DxAwDt@_BB}Du@uCJaAoAq@UsFB{A^cAd@oApAeD`G}CjHQDcAs@_@CqBzDoB~@y@@{B`AqJhByDWe@[gAuAYCmAZsAdAaCB{@Vy@jD[^e@HcCqAWBm@|@aAy@MsA}BsCeJqKgG_KeFWqIcDoA}@[F_AnAYvDOf@cAnB}@hC_A`AkF?_Bb@}DeBy@KaFdBqAGyEoAiA{@qC}EaBqAs@aAyA_Eu@gAOyAe@{@cAKeDl@UZe@dC@x@f@JVb@DfBY|Ay@^yC{@oC[c@c@sA]c@[c@eCBaBLmAf@gAjBiAtBQ~@TvDxC|EwAj@^^p@Nb@DhAx@lAx@hCx@lAfCrBxAdDjBhB|EzAzAAjCiAnAUjCt@`B~@dBi@bBFbDQn@cAbCiGVmDJYjAiA`ARh@h@jI`DvERVNzIhN|G`ItAnALXDjAx@t@HVGXsAlDsAtB}BnGuBlD_E`F_DjBuBh@qA|AwAFwB_@{@Fg@ZgBbBUdACjA`@jAhC|BhAvCPlJ`BfIn@|Ah@hCj@o@~@v@jACt]eLj@C~CjRPlDDxIPxC|D~Wt@jE_@hA_BYsGnBYXk@tBsBv@IXlBrJPV|PsFTFHV",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [
+                40.95100005157292,
+                -74.12791139446199
+            ],
+            "end_latlng": [
+                40.95109242014587,
+                -74.12808783352375
+            ],
+            "average_speed": 6.356,
+            "max_speed": 10.89,
+            "average_temp": 28,
+            "average_watts": 100.1,
+            "kilojoules": 408.1,
+            "device_watts": false,
+            "has_heartrate": true,
+            "average_heartrate": 128.6,
+            "max_heartrate": 161.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 36.2,
+            "elev_low": 10.8,
+            "upload_id": 9693860207,
+            "upload_id_str": "9693860207",
+            "external_id": "garmin_ping_273232508112",
+            "from_accepted_tag": false,
+            "pr_count": 2,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Lunch Hike",
+            "distance": 13003.1,
+            "moving_time": 9407,
+            "elapsed_time": 9710,
+            "total_elevation_gain": 462.0,
+            "type": "Hike",
+            "sport_type": "Hike",
+            "id": 9030103237,
+            "start_date": "2023-05-07T16:54:26Z",
+            "start_date_local": "2023-05-07T12:54:26Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 1,
+            "kudos_count": 1,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a9030103237",
+                "summary_polyline": "kipyFttedMQF[`AU|BiB`@cAGQr@a@h@gARL~Af@jAYf@Ph@Ud@Cd@RRzA@ZRNlBhA|@`@lADn@v@f@F|BOnBJ`AG~@fAf@~@S~AZJhAx@GBRMBf@z@t@OdALdAl@h@`AXLr@UhAhAn@DNXn@KhBl@lAAd@TjBJXR^c@\\bAK^h@?b@`@j@O@mAVg@xAa@fCjBb@x@NnC^|A^TH\\Cv@]bABhAp@fAnBjBdArDxAlClGvAjCjEnA`AXzAX`@fBtBnA|@zFxBj@d@nBNdAf@dD|@`E^\\o@Qw@?o@xC_Dz@e@Z@x@wA|AYh@FnBcApEHfBwBhCi@tAiAp@?n@yAE{@w@yAVe@KSLm@WIKa@k@a@_@C_@c@s@NcA]gAwBk@G[PaBq@[Dw@s@EYWN]Km@i@Gi@{@Y[q@{@[E]w@k@u@H}B]QR]Aq@q@m@E_@m@gAg@Ie@eAeAi@Fi@e@BOe@?GYk@@cAe@WPm@k@g@KMa@eAo@S_@mBcB@a@sAwA{B[_@kBm@SUs@Fk@r@u@Fe@{BkAo@{@Vi@SAf@O?m@bBkA{Ao@Cg@c@k@oB]e@q@_@OIs@a@_AOyATQBu@XuAWf@e@MSRS_@u@@i@W]u@wAk@wBFe@ZKMcCBm@k@I@Ng@]]]oAI?Yq@q@BMU_AOgAG_BTiDpCYMUm@b@aCQc@}@EmBaAsBh@qBMuCkCSe@Bi@}@_As@Hy@bA}@_@M_ByAcA]u@Ac@[AOSCo@OY_@e@UCiAcBWgBRi@GH[U_@i@c@QoAG[u@WIEYPm@DkAj@k@Va@Fi@OEMkB@_ARm@hC{BFWv@[TkA`FZbEG|B]tBFT]Ui@\\oAkAHi@o@e@gB@WWAKYu@IGVq@Uq@Dk@[ESW\\m@Bq@cAqAHs@oAsBIL^Jr@_@f@PtAq@lABt@~@|@R@\\pBxBPXU~@TBNw@~@e@`A@bATb@I~@jAL^p@^jBID@`DcApA`BbF?Zu@|@Sp@\\`AAjAT`ALnDJJZ]HdAWnBkAj@FTd@JIhAiApAk@T@Xq@~@WfCiAFg@X_AGs@hAP[Ao@\\Y|@LTOpAEDY",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                41.047257324680686,
+                -74.2512405384332
+            ],
+            "end_latlng": [
+                41.047897366806865,
+                -74.25187664106488
+            ],
+            "average_speed": 1.382,
+            "max_speed": 5.093,
+            "average_cadence": 52.9,
+            "average_temp": 32,
+            "has_heartrate": true,
+            "average_heartrate": 115.0,
+            "max_heartrate": 165.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 271.2,
+            "elev_low": 140.6,
+            "upload_id": 9687865094,
+            "upload_id_str": "9687865094",
+            "external_id": "garmin_ping_273062976989",
+            "from_accepted_tag": false,
+            "pr_count": 1,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Lunch Ride",
+            "distance": 33297.4,
+            "moving_time": 5462,
+            "elapsed_time": 5462,
+            "total_elevation_gain": 140.0,
+            "type": "Ride",
+            "sport_type": "Ride",
+            "workout_type": null,
+            "id": 9016626044,
+            "start_date": "2023-05-05T16:30:59Z",
+            "start_date_local": "2023-05-05T12:30:59Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 10,
+            "kudos_count": 1,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a9016626044",
+                "summary_polyline": "oo}xFjhmcMa@Be@[cBqFkDx@cBsJP[|Ai@vB`@tFyAb@s@lAyEa@sFkEwXYoQsCgQa@y@a@@o_@vLi@K_@k@_Ax@qC_OYaDEmHhBoDl@cDc@eFbAUnAwAbEyAjC_CbEcGhC}GbGeM`@DjAjAbAEb@c@dAwDxDOnA_AlAU~BpBtDXzOqDfCeAlBcEpBx@tGuN|AmBtBeA|H_@vBdBfBMvGbA|C]xGyB~AKnL}EdBSzDYlEVnGd@bAX|AkAXgExA[lFuB|CmC`@\\tANfAlApAMfA}@l@z@b@JR]A{AP[~FTpBlA~HcEtEd@~Ay@tGu@tBzAhD}@~@p@hA@hPbIvDXjDaDzAOlAy@tC_DtDoCfCeDnDoCpD_JxBgE|AoGtB}DfOoDpFV~At@dAa@R}CmGgAwCLeDfAkDMaHfEqDtA[x@WnEs@`Fs@hCkGpJqExFiGlEOn@`@rBkAhA}Ct@aBnBYh@BpAS~@]`@iCQyS_F_B}EcAUsCyCaGj@qB~@}EUsHpDwBqAqD@m@[c@v@D`ASj@oAeAgBdAaEkCc@AwClCoBf@uF|BMpDq@h@mF^kG}@}HVyItCcD~AyBLoG`CkCH}G_AqATkA}Aq@_@{A^_EFgBt@kBlBoHlOwBm@oBxDmHdCsA[o@_B@eF_@aBi@tBi@b@uA^wDB{@ZgAzAQvAU\\kCjAcE\\qAlEo@V{BqAi@Do@r@q@i@i@qBcJwKkJ{NmEQoJeDo@w@{@BaAfAe@dEcClGaAhA}FJcA`@wFcCiFhBoA@iEyAiBqAqCsEwCuCqAuDo@_AS_Bu@qAaAAgDhAg@nDNd@l@VJrBi@rBc@PuHyAeCkAUUu@}C{FiBcAO_DRqEw@nEv@bES~GvBNMLyBl@oAbCqAzCFzDvCbFwAbAlBNrAx@pAnAlDxCjClCxEbBpAjEpAlA?rFcBxEpB`Ba@nFAdAeAlBwE\\_Ab@cE|@gA`ABf@p@bJdDdEPf@XxIdNnJxKVfBx@z@sAnE{ApCmDfJmExFcClB}DpAy@jAsBLmB]_B^oBhBa@zATvBpCxBtAnDHfJfDdPZP`@w@bAx@b@B`QoFZR`@nC`@NdMmDnBhNBlKVnE|DrVV\\jIqCdAw@tBuC`GwLfAuAvD~DrBwDz@MfAt@l@sAbBa@X|CpCdD`Cj@zAMpBpB~Be@Hl@Kb@mRdHoMdD{BKiE{BoCs@eBy@}JfEWt@ZbDWtAkB[iGnBWXa@rB{BpAtApJXh@bQ_G^RH`A",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [
+                40.95105771906674,
+                -74.12802748382092
+            ],
+            "end_latlng": [
+                40.95099066384137,
+                -74.12811549380422
+            ],
+            "average_speed": 6.096,
+            "max_speed": 10.412,
+            "average_temp": 19,
+            "average_watts": 82.2,
+            "kilojoules": 448.9,
+            "device_watts": false,
+            "has_heartrate": true,
+            "average_heartrate": 127.1,
+            "max_heartrate": 165.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 35.6,
+            "elev_low": 9.6,
+            "upload_id": 9673550096,
+            "upload_id_str": "9673550096",
+            "external_id": "garmin_ping_272718034580",
+            "from_accepted_tag": false,
+            "pr_count": 1,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 30",
+            "distance": 7682.0,
+            "moving_time": 1801,
+            "elapsed_time": 1801,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 9006638902,
+            "start_date": "2023-05-04T01:43:31Z",
+            "start_date_local": "2023-05-03T21:43:31Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a9006638902",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 4.265,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Run",
+            "distance": 10016.0,
+            "moving_time": 2726,
+            "elapsed_time": 2845,
+            "total_elevation_gain": 51.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 9002514772,
+            "start_date": "2023-05-02T18:03:10Z",
+            "start_date_local": "2023-05-02T14:03:10Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a9002514772",
+                "summary_polyline": "}m}xFlgmcMoANg@A[a@a@mAIGMEGGa@iBc@R{@R[I]DIK]wASi@G[[uCKk@@MHI`@Yh@[f@Ub@Ar@b@f@?bBa@n@Ab@Ib@Ib@QHKf@sABUd@}AJ}@Ac@Qe@OoAAWj@WhA_@bCcA`A]jBuAx@aAd@u@p@cBj@iAT_@^}@`@e@HW|@aBbAuAZ]`@q@dCsDfB{BRGj@o@RY^]`CyClCgC~DkC|BgAp@i@Qk@?q@Gq@KUWYMWU_AFYe@wBJs@Z]h@[v@]f@O@EIYe@oAQkBKa@Ec@a@{AIq@Qu@SsAQs@K{@[oAQaA_@_B?e@g@}BOUMmAS_AIs@]uBs@uDs@_DYiBDWRWNa@DEKYKaAYyACk@Ue@Ag@Da@Gs@Sq@ASBq@Py@^gAb@s@Zq@Z_@l@a@rAmAh@WpBqA\\G`@PP`ABDVFrBuAlB_Ap@UFGIc@Ui@o@cAi@e@EIC_@gAJg@LsCVmAZe@Te@L]VYTg@n@y@pASf@]r@GRw@`Ba@v@_@|@[d@k@xASBs@WUQUEQDk@jAc@nAQNoAh@c@Nw@Nc@Ti@\\e@NQBg@Cc@ISKWa@Mg@Co@?{AGi@A_AOaBIY@LKh@[`A[`@m@`@w@PeALcBB[A_@Lg@^QTWr@GTG|@QLi@L[BSPY\\YPo@RSD}A?e@LY`@AJILa@dBIHg@Ji@@}@u@g@I[NW`@MZg@~Aq@jBc@l@e@|@Sl@Yj@i@fBy@nBw@pAGLo@`A}CzD_BnA}@b@{Bn@e@Xg@x@YP}ARe@Ci@FaAd@_@Xm@Z[FEXCp@FhAJl@|@fAzArAPXHn@NnD?XOjAB|ACLa@JOLGLWLY@i@JKFABdAtEv@xE|AtH`AhBl@pA|AlCjAzB^j@l@nAdCrEjBtDXf@PFJf@|@bB\\r@~@zAZl@L^~AtCt@~At@pAHVl@tCRpAz@hEn@rDX`AHD`@ErAi@z@U~@_@x@WdAQbDeAd@GDBN`@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.95095411874354,
+                -74.12790955044329
+            ],
+            "end_latlng": [
+                40.95099879428744,
+                -74.12781223654747
+            ],
+            "average_speed": 3.674,
+            "max_speed": 5.256,
+            "average_cadence": 77.9,
+            "average_temp": 21,
+            "has_heartrate": true,
+            "average_heartrate": 164.2,
+            "max_heartrate": 179.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 42.0,
+            "elev_low": 18.8,
+            "upload_id": 9658665559,
+            "upload_id_str": "9658665559",
+            "external_id": "garmin_ping_272345161646",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 45",
+            "distance": 10788.0,
+            "moving_time": 2699,
+            "elapsed_time": 2699,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8993961148,
+            "start_date": "2023-05-02T00:54:58Z",
+            "start_date_local": "2023-05-01T20:54:58Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8993961148",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 3.997,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Morning Run",
+            "distance": 6781.2,
+            "moving_time": 1913,
+            "elapsed_time": 1913,
+            "total_elevation_gain": 47.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8984367894,
+            "start_date": "2023-04-30T13:29:31Z",
+            "start_date_local": "2023-04-30T09:29:31Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8984367894",
+                "summary_polyline": "ao}xFvhmcMYFc@@GAY[o@kBWc@YoAEGQF[A_@BSBQJg@Ja@WSs@@e@CUM_@Is@i@oACCI@wAb@qAd@e@Fs@XiA\\iCh@q@Vi@@YIc@YI?WVa@V_@Ne@F]OYNi@J[TG`@@n@ENOLKD_@Aa@DqAVK?QSUs@Wa@WMk@MW]OKI?MIoAgB]_@_AkAW]IQGQCW?m@Be@@kCNeEDqDAq@DkAHmF?m@CuABiAFoA@qBGoB[gC[gB[wAYwBOm@Kw@Wq@MgAOk@c@sDWoAQiAOs@Y}BL_@ZSxAg@d@If@Up@QZG~@?fDKTCJK?o@BINwB@s@G}AEa@Mg@A_@BG`A{@ImB?{@XoAAi@Kq@Au@G[W@_@Lk@\\iA|@aAV@VP`BFdAT^`CrBVr@Fv@HxA@z@Er@Gl@A^@x@Ht@Bd@~@lEtAvHLDN?VYt@j@b@?dBk@b@IL@PTLx@N`@B?j@Ud@K`@QJ?f@hAT@lAaA`@G^`ADBTBJC`A[B@FHR`Ad@pCBl@An@Mn@QZyBp@cBn@eCt@i@VcAZw@\\g@JIDCDQ`@@FrCbFpB|Dj@x@`B|C\\z@vBrDnD`HPj@Nr@n@`ENh@j@fD|@~DBBz@SZ?l@WbBg@d@UdBi@bAa@jA]PA",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.95110239461064,
+                -74.12789890542626
+            ],
+            "end_latlng": [
+                40.95100935548544,
+                -74.12753412500024
+            ],
+            "average_speed": 3.545,
+            "max_speed": 4.405,
+            "average_cadence": 78.9,
+            "average_temp": 22,
+            "has_heartrate": true,
+            "average_heartrate": 161.9,
+            "max_heartrate": 173.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 48.0,
+            "elev_low": 18.6,
+            "upload_id": 9639403454,
+            "upload_id_str": "9639403454",
+            "external_id": "garmin_ping_271841002531",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 30",
+            "distance": 7429.0,
+            "moving_time": 1798,
+            "elapsed_time": 1798,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8974897418,
+            "start_date": "2023-04-29T01:28:30Z",
+            "start_date_local": "2023-04-28T21:28:30Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8974897418",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 4.132,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Morning Run",
+            "distance": 9683.7,
+            "moving_time": 2622,
+            "elapsed_time": 2804,
+            "total_elevation_gain": 35.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8966518961,
+            "start_date": "2023-04-27T13:07:23Z",
+            "start_date_local": "2023-04-27T09:07:23Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 8,
+            "kudos_count": 1,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8966518961",
+                "summary_polyline": "k|~xFt{hcMx@Uh@If@Qp@[f@[x@s@ZU^a@bAyAtCuEh@oAT{@hAaDz@oAlA_Dn@iARk@b@_@b@F^Xb@d@PJb@Kj@]DIXiB^{@NKf@Cj@Aj@Ff@Ih@Y`@_@NIXEf@OV?LJ|@hA^Tt@Nh@BTFjAA~AOr@_@xDaAV@h@OhAk@LEZ?r@Uh@Yd@SXObAwBZk@LGNB^Pd@ZLBL?DC^iAdB}DhA_CbC{Db@i@h@[lAc@x@Op@Gb@@h@Gd@@dAMD@?Dt@j@t@z@LDTEXKr@GXAz@LjCx@fCA`@Id@Cj@OnAe@hB}@d@Mr@Gv@Ap@c@b@Mt@c@bAe@fAWbDiAzAWb@CbAB^Cl@Md@?j@Fl@Az@F`BTlAZdAG`CUNDL?f@QRUFi@@kBRc@b@EREXKpCgBb@St@IzAs@Xc@Tg@FCZDRRJDb@@f@DLFt@|@lADf@_@b@k@n@sATYFQECGDE\\CBI@CCWdBSXe@h@a@Ro@RkAgAUYQEo@s@UAo@P[VMZMP_Ap@q@Xg@FkAj@mAv@g@TYFS?YPCl@@n@CdAUZ{@^W\\E?mA[uBHe@Ii@S_@G}AO_BKi@Ac@LEBk@He@ByAAyATUH_Br@eA\\oAf@{Ap@w@`@c@D]?g@Fi@RYNs@R_A`@eBh@wCPa@?q@GsAa@y@O}@C[By@NsAiBgAPg@Ei@@e@GiAHe@@iCdAe@b@k@t@g@j@s@lA{@dBaA~By@zAo@zAIDGAeAq@SAEBo@dAu@bB_CfA_AJg@Ra@Va@Ng@?e@Ik@YOAg@Bc@Jm@RkCNc@Ee@ISKi@DgAl@WS[]YMg@Ne@Fk@`@o@Xg@HiBHg@Va@|@a@~AW\\[Fc@?a@a@e@[IEYA]VWXo@|AOb@_CtE_CxGe@p@IHs@vAoBpC_AfAyAhAeBx@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.96066078171134,
+                -74.10815306939185
+            ],
+            "end_latlng": [
+                40.961095467209816,
+                -74.10677743144333
+            ],
+            "average_speed": 3.693,
+            "max_speed": 6.043,
+            "average_cadence": 78.1,
+            "average_temp": 19,
+            "has_heartrate": true,
+            "average_heartrate": 160.4,
+            "max_heartrate": 184.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 23.8,
+            "elev_low": 9.2,
+            "upload_id": 9620445309,
+            "upload_id_str": "9620445309",
+            "external_id": "garmin_ping_271349817293",
+            "from_accepted_tag": false,
+            "pr_count": 2,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Ride",
+            "distance": 17914.2,
+            "moving_time": 2996,
+            "elapsed_time": 2996,
+            "total_elevation_gain": 96.0,
+            "type": "Ride",
+            "sport_type": "Ride",
+            "workout_type": null,
+            "id": 8962647810,
+            "start_date": "2023-04-26T19:02:56Z",
+            "start_date_local": "2023-04-26T15:02:56Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 5,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8962647810",
+                "summary_polyline": "}e}xFf|lcMO}@g@GaB\\}MrEOMo@eCy@iEN[`Bo@`@?h@\\n@DlEaAh@W\\s@|@mDFi@CiA_@{BRUfGmBfAk@fAaA|AaChAkCbFkJrFwHfI_JxCaCzBsAfFeCj@?eCcMDYf@i@nB_AD_@a@uBFKAe@kG_]_EkUOuA@YIYBUa@aCOwBAmAU_AA{@VqAz@}Bf@k@pA_Ab@m@zCwBv@CJPJdAJJNA~DuBtB{@@We@uAm@cAm@i@SCmBHuAEwAJkAb@}@h@kAlAcCjE}DxIY@mAu@OBcBhDgClAy@DmAr@i@Pw@Ma@QQS]mAA}EMsAMSOJKl@Ul@s@r@iAXsCDwAZs@z@[rAOx@qA\\{AbAeCD]L]j@m@|BOVo@ZW?eAcAe@Og@LUd@SF{@s@KeAUk@w@q@aImJuDoFgCoEo@k@{DCsDoA{DcBc@e@i@Q_A|@Yt@k@nDkAfCo@pB]l@e@`@aBAo@JyAEcBf@}@o@cBy@kAMwCx@_Ad@qAF_EeA}@i@}@s@k@y@i@oAk@aA}@k@qAgAgA}B]wA{@yASaBy@{Aq@JkAj@eAVWX]lAO|AD\\VAVNJ`@Br@G|@Sx@S`@{@LmCaBgCy@SYGm@FyCb@o@LoCNk@j@[l@LpBlA\\Np@n@N@^Ut@IbBs@j@GHf@r@`AN|AHPh@r@l@nBdArBf@f@xAfArBvDz@~@^TlEbBdBAzB}@`Ci@~@VbAt@nAn@pBe@bFGf@_@Ze@bA_D|@gBPgAJgBPg@d@q@fAc@`AlAdIbD~BNlA?RHlIxMvGtHd@t@vApAFX?j@DRz@|@AZq@pBsBpEqBbGiBxC{BzC}BzBsBhAiB\\_ApASL_BDq@WeAImARo@XiArAQb@Mf@AxAF\\Zl@pAz@r@r@h@`Ab@zARxE@rClCrNb@`ATJ`@e@h@^n@BnPiFn@EJXd@zDb@~Bf@jE@n@QpALl@f@j@x@RpDgA~@EVJBTOlDH~@d@pAp@b@xAFHPrA`JlAfHRdBf@bCHjAAZIb@OPU?g@Um@?mGnB[`@_@fBe@\\oApAbBlJLHlC}@TFThAr@jCP^`@TjGgAn@WH]BqCA_CC_@MYk@CsCx@uDpAo@f@Ch@x@tD\\b@`AF",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [
+                40.95087323337793,
+                -74.12787736393511
+            ],
+            "end_latlng": [
+                40.951080014929175,
+                -74.12810996174812
+            ],
+            "average_speed": 5.979,
+            "max_speed": 10.157,
+            "average_temp": 18,
+            "average_watts": 86.4,
+            "kilojoules": 258.8,
+            "device_watts": false,
+            "has_heartrate": true,
+            "average_heartrate": 123.2,
+            "max_heartrate": 146.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 38.6,
+            "elev_low": 18.0,
+            "upload_id": 9616355587,
+            "upload_id_str": "9616355587",
+            "external_id": "garmin_ping_271231294518",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Morning Run",
+            "distance": 9834.6,
+            "moving_time": 2782,
+            "elapsed_time": 2782,
+            "total_elevation_gain": 43.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8919333068,
+            "start_date": "2023-04-19T14:23:22Z",
+            "start_date_local": "2023-04-19T10:23:22Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 5,
+            "kudos_count": 1,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8919333068",
+                "summary_polyline": "qv~xF`yhcMrAiA`@SZ]h@{@|@mA`@c@\\e@\\y@PSVg@f@wAPa@Li@x@oBz@yATe@pAwCPm@Xm@BC\\KXDhAv@JBl@@ZIJOJ_@V_BHU^_@fAMp@AbAIvAcA`@IDEd@KLFb@t@RTXR\\Pp@Ld@DlA?JAb@Bh@KjA]hCc@tAc@d@Ej@Wh@_@jA[^Sz@WFGr@qA\\y@TUVB^RTHHB\\AfCwFjBkEnAkBZ_@|@u@n@QpAe@pAOlCCx@DJFp@r@`@l@V@`@O`ACz@FzA\\`@DnAFh@?f@@l@ChAWhBk@PCVIJIl@Uj@Gh@?\\Gl@_@^M^[bAa@\\SpBs@tAm@rAWf@EfABf@Ar@Sf@EvBHl@F`ANvA\\VBpBK`@Hb@PN?d@m@`@IP[?{BHq@DEv@IPGrAy@zAq@xAYp@a@n@m@^q@TCXVTHp@?d@LXf@lBXlAeAZ`@^XXCF[Gi@@g@BGRM`@@T\\@jA?_@Gq@CGQS[DMLCLANBj@Cp@YR[OQ]Qg@Rm@b@o@N_@AK@R]f@Wf@Mb@Wd@]^k@\\oA[SOYc@e@O_@[a@Oi@F[\\Sj@]^_@X_@T{@Ng@Fa@Vq@Ze@Xm@XMDe@DIDGHEn@EpBCJWVc@Nm@@k@Lo@AwBFmAc@y@OeAKaBCi@?k@Tg@FiAEs@BsAT]Lk@\\gCt@kB`Am@P]ZKF[Bi@Cy@L_@XiBz@iAZkAVoALq@@e@EkB[o@Ui@OcAAo@NIFUAMWu@iAGOOCq@Dg@FUHgBAe@Dm@J[VsAh@INmBhBy@bBSf@cAtAe@jAQXo@|B]j@SJSQcAc@Y?g@|@m@~A]`@m@Lm@d@_@Je@BoB|@g@JgBRy@N{Bj@_AJqBIa@Gc@MOI]]s@{@WIq@Xc@JaAr@KBg@F}A?e@N[`@Uv@e@lB]Pg@HGCoBuA[CUZYf@e@xAOn@Yn@Qh@}@xAc@rAwBnFmArBW`@}@hA{@vA_@ViAbAoAt@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.960321398451924,
+                -74.10734119825065
+            ],
+            "end_latlng": [
+                40.960545781999826,
+                -74.10734320990741
+            ],
+            "average_speed": 3.535,
+            "max_speed": 4.994,
+            "average_cadence": 77.6,
+            "average_temp": 20,
+            "has_heartrate": true,
+            "average_heartrate": 165.2,
+            "max_heartrate": 178.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 22.8,
+            "elev_low": 12.2,
+            "upload_id": 9570251989,
+            "upload_id_str": "9570251989",
+            "external_id": "garmin_ping_270043123385",
+            "from_accepted_tag": false,
+            "pr_count": 1,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 30",
+            "distance": 7496.0,
+            "moving_time": 1801,
+            "elapsed_time": 1801,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8913893255,
+            "start_date": "2023-04-18T16:44:28Z",
+            "start_date_local": "2023-04-18T12:44:28Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8913893255",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 4.162,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Ride",
+            "distance": 17974.5,
+            "moving_time": 2793,
+            "elapsed_time": 2793,
+            "total_elevation_gain": 117.0,
+            "type": "Ride",
+            "sport_type": "Ride",
+            "workout_type": null,
+            "id": 8890512287,
+            "start_date": "2023-04-14T17:21:42Z",
+            "start_date_local": "2023-04-14T13:21:42Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 11,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8890512287",
+                "summary_polyline": "io}xFphmcMq@DWKWa@aAeEMMc@A}Bv@KI_BoHOaAOa@UmBo@kDJQlCaAzMcEFK?c@_CaOq@}EU_DGyBFeGQsCYoCc@aCy@yC[EqDjAgE`B{@LICMYqAqIMQWCiKfD}@MUHMIu@rBaBxCOPSk@s@kE]sA{@cFIy@KwEBeCH_@Vg@t@_AN[j@iBJcCK_A]_A?]NUt@MbAgA^QlBa@p@[xAcAnAuAjAeB`@e@rAsBj@qA|BsG`AaB|BcGTOT?l@Xn@p@XDTEb@ONUf@kC^o@VGhCCTGnAw@nAY^Hd@t@r@n@xAVtB?~GyAhAMvAu@|AWv@c@l@UPStAaDNO`@J|@l@V@vCeH~@oBhBeDfAeA~By@x@QhCHdAMVB^R`ArAPJb@Uh@C~AL`Dl@`AB|Ca@vFsBrAC~Ao@p@e@nAm@l@K`E{AlAQfB@jA[V?pEZnBd@X@`CKn@OhACTIPSDYBqCNWn@G|DqBxAY`@U~@w@\\q@RMH?XZ|AR\\h@d@^hABb@]b@i@LCf@v@^PFCHQB[Ew@@YR]TIVNZFhBBjANd@Rj@l@PH\\?~EwCfAe@V?fCd@|@AVE`Aw@fDOxAa@`BbAd@RT?nAYf@]TGVDd@b@RHtABlA~@rMfGrCTPJAjBG`@Qf@]Vq@@cPmDgD{@a@QSSWe@k@mCUe@o@@uAiB[[k@YyDj@_A?YFu@l@o@NcBK{@Wk@@sAl@}D|Bi@HWEcA}@eAYoCLe@Yg@n@KXNn@?TAJMLWKm@_AODy@t@UHY?mAg@COMO]Kq@o@YEo@LWRa@t@u@n@c@RaANeEtBq@DSJKh@EbCKXa@Vs@AmARyBFcBa@gBU}CKyAXeCFmATmBx@sA`@sBfA_AXa@VgBFiDxAgCj@eDP}Dy@{ACc@LGR\\rAGRuAd@{A`AwBjAUAMOIaAKQQGc@HwCtBe@p@q@^s@v@y@xBWjAKdAPfA@ZCv@PpBj@zCq@^ERHZJFn@bEz@xDv@xEhGl\\nClNv@~EThBGLaCz@eF|BwD~B{BdBmBjBwCjDUHWVaEvFsBbDc@z@Md@yE~J}A|Ba@b@kAx@_A^sGvBEXb@dBLdAA\\eAhESf@ONy@ZeDv@a@BUEg@[SCSHQRwAl@GJDh@nAhGXdALFb@UpHmCrFyANRDr@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [
+                40.95115997828543,
+                -74.12814063951373
+            ],
+            "end_latlng": [
+                40.9510581381619,
+                -74.12809831090271
+            ],
+            "average_speed": 6.436,
+            "max_speed": 10.586,
+            "average_temp": 33,
+            "average_watts": 100.5,
+            "kilojoules": 280.6,
+            "device_watts": false,
+            "has_heartrate": true,
+            "average_heartrate": 135.9,
+            "max_heartrate": 164.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 32.4,
+            "elev_low": 7.6,
+            "upload_id": 9539682916,
+            "upload_id_str": "9539682916",
+            "external_id": "garmin_ping_269245173513",
+            "from_accepted_tag": false,
+            "pr_count": 7,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Run",
+            "distance": 12900.2,
+            "moving_time": 3889,
+            "elapsed_time": 4617,
+            "total_elevation_gain": 101.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8885193262,
+            "start_date": "2023-04-13T17:04:27Z",
+            "start_date_local": "2023-04-13T13:04:27Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 3,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8885193262",
+                "summary_polyline": "_o}xF`hmcMk@Ng@EOOSg@IEOQi@cBKi@IIMJo@IqA`@_AHiD~@aBj@qBh@wKnDcBd@s@Ta@\\gDrAuExA}@RuBt@eANSTKz@M\\BNC^Ut@Wh@Kn@f@^@FAP@d@HdA?p@EpAMpAYf@a@tA_A`CWh@e@t@Sf@c@t@cAxBwBfEaAzB{@|AQb@Od@?|CB^@DDDpBPP\\l@HHDFl@LhCJjAFrB^bGLr@Fz@T`G`@xGBtA\\fDRxFd@jJd@jGx@|OFd@B`ATzC?n@Uf@MBcAg@y@WOCKf@c@~@Y^_A|@EJzDlAJTf@pAvBnAj@G^Fp@F^J\\^tAX~Ar@xBFl@EvA@n@Vl@HzBFz@KTOPc@\\Wr@If@Dh@Vf@f@|@h@fATf@?HFBdAFHr@FbAd@|Bx@nB\\ZLl@JnA`@d@Jn@j@h@B^CXXJ\\LNj@LLJdASX?d@Lj@C^STe@DONQ\\IhAThB@x@Tf@Bh@KlAFHGX_@NIb@BZT`@RH@b@EBBCvABb@BB`Dx@`@@bARVTEd@HX`ETb@?r@IHSw@aAAa@D[FMNSx@u@j@q@NgAHYU@YGGe@GI[Ma@Eo@De@Nm@Te@Vc@^g@Pe@Jo@BoA]c@Fe@L[LsAZa@Ii@]u@L[Z[?k@G_APg@?g@SkCK_@Oi@ASNOr@SL_@N_@@eAMk@LYJ]Ic@QKOI]MSECcAL_@M_@][GkAm@o@Mg@Qy@K[I}By@}Au@m@IGGEME_AGCY@e@Cg@I}@g@o@g@k@]UCi@Fk@RA\\QBIVQHaAHyB?cB]aAEw@@k@GoAGeAg@oAWqAw@}ASEEOsB]kAC]Ms@?[CUYeA@OPa@FUWmE@w@EQKcAKiDUwCQ{AEu@?q@MkAO}CQ_BMcBM}B?i@MgBEwBGaAGy@WsA@c@OgDWmEGk@EeBEk@?m@O}@GkBSwCAwAQyA]wEBKAMIEm@EmBKQGAEAo@DwCNg@~AsDl@gApA{CpAkCtCkGpBwEDg@D_B\\aFHsH`@S|Ai@h@Wn@Wb@InEuA~Ak@vA_@x@i@|DqAb@S`Bk@j@MfCs@|Am@rCy@|CgAf@Mp@?h@SxC}@h@D^GvE{AzA_@JBBJJz@?dA",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.95099636353552,
+                -74.12802119739354
+            ],
+            "end_latlng": [
+                40.951014971360564,
+                -74.1284619178623
+            ],
+            "average_speed": 3.317,
+            "max_speed": 4.638,
+            "average_cadence": 78.2,
+            "average_temp": 34,
+            "has_heartrate": true,
+            "average_heartrate": 173.7,
+            "max_heartrate": 188.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 53.4,
+            "elev_low": 15.8,
+            "upload_id": 9534046067,
+            "upload_id_str": "9534046067",
+            "external_id": "garmin_ping_269087797414",
+            "from_accepted_tag": false,
+            "pr_count": 1,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Morning Run",
+            "distance": 8573.8,
+            "moving_time": 2271,
+            "elapsed_time": 2285,
+            "total_elevation_gain": 4.7,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": 0,
+            "id": 8871663302,
+            "start_date": "2023-04-11T12:52:19Z",
+            "start_date_local": "2023-04-11T08:52:19Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 3,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8871663302",
+                "summary_polyline": "uv~xFnzhcM`@[LQLCZWh@m@ZWd@o@DKJIXe@TSDORQP]Zc@DMFCT]J]JIXq@x@mCRc@BQRc@BO^o@`@k@DQVc@?GHOPe@FKBODG?GJSHYDYEOEEs@e@EGASFUASYm@WYk@_@WYIW[c@WQa@o@QKMUk@g@EO]W?GKEg@m@qAiBIUQQM[c@c@}@{AMKk@gAu@mAGQSWI?CKSMa@F{ACsAQmAe@{@QMGe@WUIOMoBw@MG[a@KIi@IILUJORGLIHU`@E`AMl@@PCXEF?RGNe@x@CRY^Wn@APSd@?NOZQTEN_@XW@YEWBOGi@Na@I}@?u@PSLi@Je@UEKMAIK]Kk@]MAa@Sk@EYHO@{@R_@TYBeAf@_B?YKI@m@Sa@Ek@Yo@SYQWYEACG[WYq@KECOW]Sk@OMAIOSi@e@KOSGSUG?KMSKKMCOSM?EKMKa@IIMg@Qa@AQQ[GW[a@KKGAEY@UE[Uy@O[OOMKMAEIaAPIHM@EFi@Ro@@WNKXCTGNCdAI\\Bj@DLRETHR`A@ZAp@C`@Wr@IL[Pi@@}@_@Y]IIE@OQe@Mo@EaAc@Uc@Ii@D[Ck@Bq@AWJWLILQASDQASDg@?ONo@Vc@LI\\ERBj@PvAfADATZZ?JTJHD?NUbAIj@YLCFKV?HGBGp@@BLRb@JFTf@HXC^@PTd@NJ^t@F^Nd@?HJXRRd@fALPz@v@~@r@@Fp@~@l@vAJJ?HLFNVd@\\NRLFBFr@RP@DF\\F~An@xAD^CPO`@Mn@]jAYR@b@Qf@H~A~@TFXRDAJJBAVJJAVQv@StAEZD`@GJBn@ALDRC\\SR[LMl@kB?IJ_@JGl@cAVk@TmC?a@Xs@JI@Kd@_@j@GRKBVLJFLAHNP\\Fl@TZThAd@DDRDJ@^NRDHAJH^LBFL@`@NHEp@Jd@CDD`@?TEb@DRPFPHJN\\X\\Nf@PLFZV\\DPF@FPl@j@d@v@h@l@b@r@J\\TTLTx@|@Z^XRd@p@d@l@LFVZh@z@h@`@TX\\THLDX@JGTFVv@n@D\\Wx@Wf@G^W`@CNYj@U\\QP?HUl@W^e@dBIHWfAMJIVED]x@c@p@CPKXWREP]TU^KD]p@YX[f@[NQN]RCFULGJo@`@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.960425501689315,
+                -74.1071956884116
+            ],
+            "end_latlng": [
+                40.96060671843588,
+                -74.1070712171495
+            ],
+            "average_speed": 3.775,
+            "max_speed": 5.776,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "elev_high": 21.3,
+            "elev_low": 16.5,
+            "upload_id": 9519203188,
+            "upload_id_str": "9519203188",
+            "external_id": "828B2FD8-AC05-4237-9C0D-E248C2C5AA25-activity.fit",
+            "from_accepted_tag": false,
+            "pr_count": 3,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Lunch Hike",
+            "distance": 5224.2,
+            "moving_time": 5832,
+            "elapsed_time": 10466,
+            "total_elevation_gain": 206.0,
+            "type": "Hike",
+            "sport_type": "Hike",
+            "id": 8862721958,
+            "start_date": "2023-04-09T15:52:29Z",
+            "start_date_local": "2023-04-09T11:52:29Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 1,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8862721958",
+                "summary_polyline": "yityFrxsdMFLAEDEFLCGHJNJ@LDLBAD@JINAFB?LBDNEDD\\DRGP@DJ@X?LC@@HFJ?HBDB@HNHA?BD@TE@@ABDDBFXHTB`@[?D@?JEA?BPAFDF@QACHEIHHRNABCBBBHBIJRT@@BVDDITBDCD@?FL?BHB@BA@BPGDLJFb@IDB?DJENX?NBAGHATFT?LDd@DHNIl@GPK?YCKP]BK@?B}@HMAQLODMDCFUBC@ULSD]PY?KJ[?OCIDODe@JKEO?YP_@DSFNEOPa@BWZc@@G@ECGG?EEEY?IBAAEFGIC?AB?IGSo@?IDOCGBYDEDSDKBILQJ_@@SKSDU?WCK@YLSHg@R_@NQAIHQEWJc@FIPGLKHHAAHKPQFAJMGBOEK@KCa@?WOGMYiA@UKDDJHAMMaAQKY]e@?EEEDMAOSE?@S`@@CLF@BUWNs@D?BGGDECFFSWCm@EDB?Q?a@GgAeAGFGGQAEEEK?IGCKa@?INUACDOEMD?AC@EEc@J{@@BB?IYGs@AFCGA]EEEAGGKEEIADHOI?GDE??CC@EMGEGX?L@GO@EJOLQCEFSUAEEAESCDGCGHSHU?KBYQJ?AD_@I?KEBYMKA?E?ENSVK@KPOLW\\MCTBOd@WZAXV?FNCBCBDJFDCDBNMCWFWNG?DB?HMBMJMBUHILCDFBCEPH?C?FUNALGBDRSd@SBEFABPJ@DGL@REBFL?FGPAD@HGH@HBR@VKL@CBAEDRAAb@]JAFDTMBYCCGe@DAFO\\QJM@ANHPIJAGEFIX@FEj@DNH@DEZGNID?HGF@HGh@YZGT?JCPURSHMVIF?HEJIBADSRBHCPOT@EGSMOUCOIMOI?MQGAIJIAGI@BGJCLM?GICDCCIJEXAC?`A@LFNNB^rA?LI^EJQPc@N[OIDOCO@]OCFBJCDB?IDEE]LELCj@@`@BTIZIFENLBDHBTLAFGP?BBL@NP?FJJDNNDDFNBAD@CTAJNCRHXDDPAJNAXKRC?GDEJHLAHDJHDJ@FJHBNGB?BJB@PCLDLIJFP^?RHH@XFPJDDRZJLEGDDEl@X@F?RQPQJKPSFGTAb@ETGA@DANS^Cb@GPC\\CDBFAXD@@G?ACHGAcEnY?H@CIH?NAE?DDQ?ICF?GEH?GHA?LIPANEJKNG@GCF?BJBIIVEXGBLFFLGHIBGPGC@IAHCBi@PKGGQKO@_@Oq@CWE@G?SYINGHM?QMEKCFACE@ABC?CQM?@C?@@EIDUFAG@?CJQE",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                41.06973976828158,
+                -74.32258361019194
+            ],
+            "end_latlng": [
+                41.06944992206991,
+                -74.32548517361283
+            ],
+            "average_speed": 0.896,
+            "max_speed": 2.654,
+            "average_cadence": 50.2,
+            "average_temp": 28,
+            "has_heartrate": true,
+            "average_heartrate": 94.7,
+            "max_heartrate": 154.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 302.6,
+            "elev_low": 210.6,
+            "upload_id": 9509736612,
+            "upload_id_str": "9509736612",
+            "external_id": "garmin_ping_268462081283",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Lunch Run",
+            "distance": 6449.3,
+            "moving_time": 1784,
+            "elapsed_time": 1805,
+            "total_elevation_gain": 38.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8843233704,
+            "start_date": "2023-04-06T15:53:47Z",
+            "start_date_local": "2023-04-06T11:53:47Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 2,
+            "kudos_count": 2,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8843233704",
+                "summary_polyline": "cn}xFnhmcMiARM?YSYq@QIS_@[eAOeACAG?wAt@KAKGeAEwJfDa@JkAb@gBf@yAh@k@HqAj@iAXg@Nw@^EF}@TaBp@eCt@eCz@i@N_A^y@Rg@BMFQPWd@Dd@Ar@IdA?fAIn@EbAIxDGn@GL]J_@MmEcEe@]wBsBc@]a@o@SUsCgCcAaAOEK@_@f@Ud@?d@a@f@CP@LEHm@n@Q`@yAi@qBGa@Mc@UKBWIaAa@o@a@QGQCOK[]a@UWGQOE?_@WQy@g@Os@_@MUDMHAJQZeBPo@ROLeAEk@[Uu@Ua@_@@[Nq@Xo@\\gAAe@EGk@IgA[gG}B_@SYg@UMAK`BsAhAw@n@_@vAwAHE^Mr@C|@K`@Sf@Qd@Kr@YbBk@b@Sf@OVEVM^G`Bo@VCj@Y`@On@O~@]|@UxDkAHBf@^NHj@l@dCrB^TVHnEfEd@h@jB|Ap@p@`@Tv@dAP\\^h@h@j@v@jA^b@JFRGf@QX@HJPn@d@|BLLJ?zA[XC^@RO@ECiAJ]FI`ASVK^JXGl@STOb@Qv@Vn@?|F_BfAUn@CdDw@HBZx@HZVj@HHJPV`ADPN\\TAlAg@zBq@j@Wf@BlBi@hAUtAa@JDBFJb@Bt@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.951002817600965,
+                -74.12826511077583
+            ],
+            "end_latlng": [
+                40.95093903131783,
+                -74.12835362367332
+            ],
+            "average_speed": 3.615,
+            "max_speed": 5.402,
+            "average_cadence": 78.1,
+            "average_temp": 24,
+            "has_heartrate": true,
+            "average_heartrate": 156.3,
+            "max_heartrate": 181.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 53.0,
+            "elev_low": 23.0,
+            "upload_id": 9489156216,
+            "upload_id_str": "9489156216",
+            "external_id": "garmin_ping_267942021207",
+            "from_accepted_tag": false,
+            "pr_count": 1,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 45",
+            "distance": 10730.0,
+            "moving_time": 2700,
+            "elapsed_time": 2700,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8834167477,
+            "start_date": "2023-04-04T23:42:19Z",
+            "start_date_local": "2023-04-04T19:42:19Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8834167477",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 3.974,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Hike",
+            "distance": 11869.5,
+            "moving_time": 11927,
+            "elapsed_time": 15549,
+            "total_elevation_gain": 399.0,
+            "type": "Hike",
+            "sport_type": "Hike",
+            "id": 8822010344,
+            "start_date": "2023-04-02T17:09:23Z",
+            "start_date_local": "2023-04-02T13:09:23Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8822010344",
+                "summary_polyline": "kndyFhapiMdBUz@`@p@DtBOrDz@xA@lAYz@cANo@E]Pi@pA}AHkA\\m@Mi@Ze@QWHQI[LeCYeCKOF[KWEeALWqKqbATSe@_CyB}De@a@L]CJq@]a@sAOmA?UQYW@FSAc@o@{@C{@S[@kAOy@CiBAQIBB@JABl@FEM?Ko@FA[_BDQAOc@mAWmA}@gBAWiAqCc@]}CTgBo@s@k@a@eBOQc@wA_@wCEkA]cBk@cASgAYcAw@mAmBiA}A?qC_AcA{@mAkBs@c@O[k@EW]aAk@G]QM[_D[}B]eAQcAY_Ce@uACoA]e@w@WiA}@]C]a@OBm@]FK{B{@m@GsAq@c@Au@aAGcAs@aCCeAY}AKyAa@sCS_@M_B]eAc@kE@iDgAoIAiDOoAXuE@gDKsBi@eAA[HGr@xAR}@ZUVi@`Ai@p@mAHa@`@g@rBBTO^Fl@OjAd@x@W^L|@M|An@XO~ADNVbAb@DLVMXZ\\QFRj@Dd@LRUR?l@b@Hd@PRHn@x@l@HVTNr@Ix@NrAxAbAVj@`ATH|@rB`@`@@`ALH@d@j@v@RdAX@Tf@`@PXx@X`@Lt@pA`BG@BNf@xAQlCf@BXZQhA@f@ZT`AnBN|AEZ^`AC`@J^`@PDPG~@o@j@Eb@TfBNXCt@XdB@x@y@fBOf@HbBSp@@f@lA`Ax@Dz@`@v@fAtARD`@IWf@b@DZRFATv@JjAfAb@p@B~@Lj@AbAJf@z@v@RfAA~AHfAMGE^N|BHXOjBNt@KRN|@Cr@b@dAp@r@P@L\\AXX\\Wp@JtAGbCF`@KNMCJQJx@AfBHPMN@RGSZjAKJ`AVl@`BHz@LPd@Th@fBGrCFGc@oAN{@?u@{@u@g@?SZ\\fBDbAAj@GA@fAEL\\xB]BBKP`@Jj@Dz@Op@}@v@ATLXGD@Pf@`AXfBBjBRdBCfBSpAm@lB{@j@i@LcA|@OpC?nCf@|DBbDZrCGjAF`DRfAd@tAxAnCZjCf@zARNZzAn@rABr@b@`AX`BXPLz@OTVd@h@|D@n@JJOx@?fAMj@?PH\\ELMCB\\i@hDoAnAOfAi@dAw@X_At@_ADiBSsAe@y@BgALs@GeAg@i@V]G",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.989187164232135,
+                -75.12753146700561
+            ],
+            "end_latlng": [
+                40.98907015286386,
+                -75.12759692966938
+            ],
+            "average_speed": 0.995,
+            "max_speed": 2.714,
+            "average_cadence": 48.7,
+            "average_temp": 25,
+            "has_heartrate": true,
+            "average_heartrate": 107.1,
+            "max_heartrate": 156.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 392.8,
+            "elev_low": 89.0,
+            "upload_id": 9466845690,
+            "upload_id_str": "9466845690",
+            "external_id": "garmin_ping_267333424750",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Run",
+            "distance": 10085.2,
+            "moving_time": 2600,
+            "elapsed_time": 2623,
+            "total_elevation_gain": 61.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8809245148,
+            "start_date": "2023-03-31T17:10:35Z",
+            "start_date_local": "2023-03-31T13:10:35Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 3,
+            "kudos_count": 1,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8809245148",
+                "summary_polyline": "_p}xF`imcMa@DYIGEQi@UWSKMUSq@WoAEEWDi@T]ES@KDWBCCi@yBGi@o@oCGi@BSBEh@YJ[RU`@]T]Du@Nc@`@_@fBi@hAg@hA_@ZGj@F\\LVFDAFQ?c@Gi@Ss@Ke@Ly@fBs@v@Wf@IpBs@zBeBfAoA`BkDnAqC\\i@\\u@x@{Ah@k@LCH?t@d@r@x@\\ZJDLEJSx@eAdA_BDAJBzAjAPBHg@R[dAYj@SLIZoA\\{@t@gAf@e@\\g@JGf@O|Bq@hAe@BGSi@AOHYTQnBaADEF_@i@mBs@wCa@oB_@kAw@eDYsAGu@Jm@r@m@d@U|@YDM?Ey@sFOoAc@{B_@uBCi@Lc@Kk@aAoFQu@Ec@a@cBYiBi@cC[sB[qAqAoIE_@FKA_AM{@SuA?SM}@BsA[cBF_ATmAZkAN]`@o@b@_@l@c@p@q@z@o@bBaAh@ETPHn@Nl@NEp@e@~CgBfBu@Wk@e@y@[_@i@i@MC?Cs@Bq@Fq@?_ABuAZeBh@}@r@_@\\gAbBk@jAoAxBmC~FOBaAw@[IEBQPu@`BQd@YZqBlAm@Be@PoAl@_@BaC`@sDv@y@FyAC}@OKCQIQQs@}@c@UiBl@a@\\MF_@J_AFqAA_@VO\\Wt@UfAKPc@Pc@F_@Si@k@a@SE?a@PUd@Wz@cAvCoArBQ^W~@y@tBMd@Wb@[z@a@n@_@d@oDtE_BxAo@b@_@RuA\\o@R]Vg@t@a@RuAPo@GO@g@P}AdAYJa@@MDCJLx@HdAJr@V^`@b@`BxAXn@NdD?l@K~AB`BHjAfApGApAn@zCHp@AFMZI\\?DId@Wh@Kl@Xl@\\f@xAdCnCfFv@nAlCbFrGjMbChEdCvEh@nAr@`Dh@|CLdAl@dD^bBPR^Kv@]zAc@nAe@p@Sj@AdA[",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.951167521998286,
+                -74.12815882824361
+            ],
+            "end_latlng": [
+                40.950979767367244,
+                -74.12710337899625
+            ],
+            "average_speed": 3.879,
+            "max_speed": 5.0,
+            "average_cadence": 78.8,
+            "average_temp": 17,
+            "has_heartrate": true,
+            "average_heartrate": 160.2,
+            "max_heartrate": 180.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 41.2,
+            "elev_low": 14.6,
+            "upload_id": 9453368349,
+            "upload_id_str": "9453368349",
+            "external_id": "garmin_ping_266984508406",
+            "from_accepted_tag": false,
+            "pr_count": 1,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 30",
+            "distance": 7427.0,
+            "moving_time": 1800,
+            "elapsed_time": 1800,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8804246061,
+            "start_date": "2023-03-30T17:26:46Z",
+            "start_date_local": "2023-03-30T13:26:46Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8804246061",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 4.126,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Ride",
+            "distance": 17390.2,
+            "moving_time": 2746,
+            "elapsed_time": 2775,
+            "total_elevation_gain": 95.0,
+            "type": "Ride",
+            "sport_type": "Ride",
+            "workout_type": null,
+            "id": 8802650020,
+            "start_date": "2023-03-29T17:04:05Z",
+            "start_date_local": "2023-03-29T13:04:05Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 4,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8802650020",
+                "summary_polyline": "_p}xFjhmcMq@Fa@YWw@o@mDKKYAqBv@YBKSoAkHIk@BUpBq@b@@t@`@d@@fEgAl@_@\\s@hAqEAo@_@cCAODOxHqCrA_At@y@h@}@~DaInC{ERERFrA|A?OuAeB@U~DaGhHiIhAcAvEgDnDiBbA[b@A@GaC}LDYPUv@i@jAc@DOs@iEL[Ee@aE_UuBuK{BuMS{A@UKi@BY_@_CO_BA_BU_AA[Fo@XuAXy@b@_AdAcAb@Un@w@lCoB`@GZLJbAJTT@dEyBhBo@LO?Im@aBi@{@m@m@YKyAN_DDoBh@}@d@}AdBqBlDyDvIOJoAy@S?[\\sAxCk@PaAh@cANsAv@UDc@By@UUMWa@OkABgEMwAGSIAcAtB_Al@_CX}AImAf@i@t@Qf@OpAITOLeATcAr@k@JuBBc@P]p@a@tBOVk@VW?oAaA]Mc@JU^WLq@o@GY@a@I_@eB}AkFmG{EaHoDiGUMcB@cBMkG{BoAa@}@y@s@?WPo@~@e@rDMh@w@nA_AtCU`@e@d@cB?c@HsB?cA`@W@_CqAeAc@o@CuBp@_Br@g@DwAIsCaAkAw@mAyAu@gBm@}@yAeAc@a@cAkBo@sBk@y@IYMmAk@gA}@KoBl@u@F]V[bCAt@FRn@JHPFjAI~A_@t@YNg@@s@YoAaAcCk@OMOa@CWD_DDW\\a@V_D`@m@TITDl@PtBpAx@r@^S~@KhAi@r@MZRf@`AJ^Bt@HXt@dAXbA`AvB^h@zBfBtBzDpApAXL`ElApBC~BaAnAYx@HdEnB~Ag@jCE|A?RMj@u@v@eCn@oA\\eA`@sDVe@d@i@v@Az@v@nAb@nAn@~A^dAb@n@NnDHVJjDbG`E~FdBrB|@x@hE`FHX?|@BJb@ZZ\\Ej@yAzDo@x@]v@wBhGwAfCo@|@}CpDkBtAm@ZyBj@g@`@k@v@SHiAFWAcA]e@AiALy@^cAfA[r@QfAD~@HZXb@\\Xp@XfAbAx@xBH^Bp@LhG?r@hCzMLb@Vd@HBd@q@v@n@RD~B[`NkEPJBLxBzNJPPNRBx@ExJuBRFJd@DxAClFFrDx@zGpDfUNfA@^Qz@QPW?y@SYDiEtAw@L_@d@UtAy@p@a@j@a@TAR`BlIRVRAlPuFRBJT@v@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [
+                40.9510961920023,
+                -74.1280128993094
+            ],
+            "end_latlng": [
+                40.951112704351544,
+                -74.1281199362129
+            ],
+            "average_speed": 6.333,
+            "max_speed": 11.237,
+            "average_temp": 18,
+            "average_watts": 93.3,
+            "kilojoules": 256.2,
+            "device_watts": false,
+            "has_heartrate": true,
+            "average_heartrate": 132.0,
+            "max_heartrate": 154.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 41.4,
+            "elev_low": 16.2,
+            "upload_id": 9446426036,
+            "upload_id_str": "9446426036",
+            "external_id": "garmin_ping_266792037084",
+            "from_accepted_tag": false,
+            "pr_count": 2,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Run",
+            "distance": 8174.7,
+            "moving_time": 2227,
+            "elapsed_time": 2302,
+            "total_elevation_gain": 52.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8793106929,
+            "start_date": "2023-03-28T17:35:34Z",
+            "start_date_local": "2023-03-28T13:35:34Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 1,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8793106929",
+                "summary_polyline": "om}xFzdmcMMQQm@]kAIm@EGG?i@PcBt@w@CQ@eBl@OBKMOcAYcAIg@g@mBSkAYmACs@G]m@wCOc@}@}AoHkNYo@Wy@_EaI}BeEq@sAaBsCyA}C_A_BM[SWYi@{@uEy@kF_@kBUuAAu@PY~AKb@KF_@AcALmBKuBIeA@g@r@y@@GMgB?o@N{@Rw@FwANo@\\e@f@C\\Mv@_AVMpAY|@[^Wl@g@~@o@\\]j@{@nAcBhAeBZq@bAeCfAkDdAiBt@uB^w@Vw@Zk@^YP?^ThAz@RDRCJE^WH_@PqAZw@^[vAEPBn@Ef@Q\\Y\\Ul@Ol@G\\Z^d@TIn@_@FSCECaAG_@Om@C?KBST{@jAQf@WVu@PQH{@l@MDk@LcBBg@PWZW~@S~@KVIJMDg@HCAc@W{@q@ME_@?YVo@~Ac@pAi@lAeAhBcArCGX}@pCk@`AqBdCoAfBw@v@SLaAx@g@Zc@Pa@Ju@HQF[Te@t@[Ri@DMDi@?e@Ug@K[?KGGM?GJiANmASlCM`@@L?n@CFON}@n@o@HKDCLH^TtCPb@bCzBV^Jp@LrCOlCFhBABUDc@XUFo@De@FCN~@|Dh@rCjAfHVj@RPH^NZdAjB\\z@lApBfAtBp@jAxAxCd@n@fAvBTXDZ|AxChAlBdH~Mp@hAZ~@z@bFT|@fAnGR`AHRH@hAe@`Bc@`A_@xBs@d@Eh@@l@O",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.951006673276424,
+                -74.128099065274
+            ],
+            "end_latlng": [
+                40.951005248352885,
+                -74.12737646140158
+            ],
+            "average_speed": 3.671,
+            "max_speed": 5.148,
+            "average_cadence": 78.6,
+            "average_temp": 16,
+            "has_heartrate": true,
+            "average_heartrate": 156.9,
+            "max_heartrate": 182.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 42.6,
+            "elev_low": 19.2,
+            "upload_id": 9436390272,
+            "upload_id_str": "9436390272",
+            "external_id": "garmin_ping_266517882780",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 30",
+            "distance": 7360.0,
+            "moving_time": 1800,
+            "elapsed_time": 1800,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8771955583,
+            "start_date": "2023-03-25T00:58:23Z",
+            "start_date_local": "2023-03-24T20:58:23Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8771955583",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 4.089,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Afternoon Run",
+            "distance": 6643.2,
+            "moving_time": 1851,
+            "elapsed_time": 1866,
+            "total_elevation_gain": 53.0,
+            "type": "Run",
+            "sport_type": "Run",
+            "workout_type": null,
+            "id": 8765781583,
+            "start_date": "2023-03-23T19:26:54Z",
+            "start_date_local": "2023-03-23T15:26:54Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8765781583",
+                "summary_polyline": "cm}xF~bmcMU}@[}@]Me@EW@mA^]PwBx@WLIBI?c@cBCQOe@E[IQSEMe@Ie@OOkBr@o@Lo@BeCl@uA^k@Vq@Re@DGAc@O_@SI?e@Zk@R]RWEc@Ug@Tc@HIDGRA\\B`@I\\CD]Ng@@cB^[OCEQa@Ka@u@}A[OOBYHI?_ByBw@y@q@_AGYE_@?u@Bg@AWB_EPgGPyKBsEH{B@eBA[Ei@u@qDGi@UkAu@kF[cBMg@Ec@UkAOeAS_Ai@sCWmC@EJGv@Y`@m@l@MrAe@PEz@GtAG`AKx@A^Q@I?eAH_CYoEDM`@c@Pg@Gi@Ao@@y@D_@Xu@@OAc@UkBIKWAoAb@CEBc@CM@YP]B_AD]Li@AKOtACj@EPQ`@@H@l@ETg@b@]Tu@PCDCLTjDH^V\\^b@rAlAXl@JtBFdBOlA@bADp@NrARx@`@vBRpA`AdFAh@Uh@gAtBEELf@dAhB^x@l@hAhAnBf@bAVr@fAdBr@tAZf@f@dA`A~At@`Bl@`Ax@~Aj@tArC|EVj@Zf@vBbELh@^|BJV`@dBb@zCNh@j@bDJ^FFJCZQf@Mt@MD@\\RBH\\xAd@bBX`@`@Pb@AzAg@@E@[My@}@aE@OBIJI`@QjBe@~@SRFJh@BZ",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": "g12167407",
+            "start_latlng": [
+                40.95104606822133,
+                -74.12794006057084
+            ],
+            "end_latlng": [
+                40.95094816759229,
+                -74.1280525457114
+            ],
+            "average_speed": 3.589,
+            "max_speed": 5.505,
+            "average_cadence": 77.2,
+            "average_temp": 19,
+            "has_heartrate": true,
+            "average_heartrate": 159.9,
+            "max_heartrate": 190.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 49.4,
+            "elev_low": 20.2,
+            "upload_id": 9407536702,
+            "upload_id_str": "9407536702",
+            "external_id": "garmin_ping_265734422107",
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 30",
+            "distance": 7229.0,
+            "moving_time": 1798,
+            "elapsed_time": 1798,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8761444873,
+            "start_date": "2023-03-23T00:16:39Z",
+            "start_date_local": "2023-03-22T20:16:39Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8761444873",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 4.021,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Lunch Ride",
+            "distance": 32400.8,
+            "moving_time": 5176,
+            "elapsed_time": 5218,
+            "total_elevation_gain": 196.0,
+            "type": "Ride",
+            "sport_type": "Ride",
+            "workout_type": null,
+            "id": 8753685652,
+            "start_date": "2023-03-21T16:58:03Z",
+            "start_date_local": "2023-03-21T12:58:03Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 15,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8753685652",
+                "summary_polyline": "_o}xFzhmcMo@Hi@_@sAkFiDp@oB{JfBaAzBb@|EkAlAsA`AaFsF{][uFBsGYiEwIkg@y@O_H|BgGxFsMfEqBAH}FMsCrAaCx@iDCmBa@uBnAg@z@mArDgAbDeCvF{IdCkHt@gAfCsGf@YdBtAj@Dn@e@`@_Cj@{@|DWdAw@pAYxBlBlDb@vPyD|BcApB}DjBr@|BsFrEgI`A}@vC_AjGWjBnBlAQxI~@rCe@|EiBtBQdM_FnGi@fERhCp@fG_@h@i@PuDfJeDpBwBhCj@n@v@dBJfA{@fAjAVk@CyAZ_@hEPzCtAdIaEhEf@dB}@tG{@bC~A|C{@jAt@tAHdP`IzCR|CqClBe@hBmAjImHdH{G~CcItC{FhAgFpBcExOaEnFT|Ax@jA_@RgDiG_BgMdA}NdH_@pAcAbK}@zDyHpLmFdGeErCCd@b@nAIn@w@p@_Ch@_CvBYn@UhCe@h@aBGwTgFq@aAyA_GkAAcBgAiGd@uBdAwEa@eHtDyBkAcFSk@\\BpAYl@eAgAgBbAeBm@qByAy@RyAfByJtDOtDk@f@{F^yCq@kEWwDZoBZ{KtEmBLgFhBoDf@eH{@oBRwAaBq@IoFNaCz@mBnBqC`FcDnHkBm@kBlDeClA}DdAwAi@e@{A?kF[}A{@rBaAt@oF\\{@^o@v@_@|BUVeChAmEb@_A|C{@n@cCkAgAx@{@c@_@qB{ImJmKgPoEQcEsAeE}ByAAq@bBm@lE}B~Fq@j@_GJiA`@iFyBmFbBaCCmEaB{@_AeCqEcCmB{CsGSiBkA}A}ErAc@~D|@h@JbBInAa@n@qAFiC_BiBa@g@aADmDb@o@ZuDr@]`ARrDjCdFuAt@rAP~AjAlB^tAvA|BjBvAlCtEtAjAxExA~AEbF_B~ErBxBi@fFEr@}@`CqGd@}Dt@gArA_@Xx@tFdCpCx@|DNzC`FbFlHzItJ^rBx@h@z@u@h@@zAlAfA]Z}AXQbFmBbCjAtAgAzBn@xBDzOqDnBaApB{DrBr@jG}M~@yAxB_BdCm@tFU|ArBf@|AK`@kHnDWOYyAg@CoG~EgAfB}@|Dd@vGf@lC@dAa@j@lOzy@yBtAm@`AzA~IAt@Uh@sG`DiClBmFrFqI`LiJnQsBvC_BdAqHpCd@fEUjAoBKkGhB]^_@fBwBfBlBpK|DtPvBCv@f@ZIF_@wEByD{PR]tCe@lAbFlAd@",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": false,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [
+                40.95106375403702,
+                -74.1280147433281
+            ],
+            "end_latlng": [
+                40.951035087928176,
+                -74.12809604778886
+            ],
+            "average_speed": 6.26,
+            "max_speed": 9.952,
+            "average_temp": 21,
+            "average_watts": 95.8,
+            "kilojoules": 496.0,
+            "device_watts": false,
+            "has_heartrate": true,
+            "average_heartrate": 123.3,
+            "max_heartrate": 155.0,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": true,
+            "elev_high": 38.6,
+            "elev_low": 11.6,
+            "upload_id": 9394884106,
+            "upload_id_str": "9394884106",
+            "external_id": "garmin_ping_265420449774",
+            "from_accepted_tag": false,
+            "pr_count": 3,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        },
+        {
+            "resource_state": 2,
+            "athlete": {
+                "id": 24582274,
+                "resource_state": 1
+            },
+            "name": "Just Row 20",
+            "distance": 4962.0,
+            "moving_time": 1200,
+            "elapsed_time": 1200,
+            "total_elevation_gain": 0,
+            "type": "Rowing",
+            "sport_type": "Rowing",
+            "id": 8744261197,
+            "start_date": "2023-03-19T23:14:27Z",
+            "start_date_local": "2023-03-19T19:14:27Z",
+            "timezone": "(GMT-05:00) America/New_York",
+            "utc_offset": -14400.0,
+            "location_city": null,
+            "location_state": null,
+            "location_country": "United States",
+            "achievement_count": 0,
+            "kudos_count": 0,
+            "comment_count": 0,
+            "athlete_count": 1,
+            "photo_count": 0,
+            "map": {
+                "id": "a8744261197",
+                "summary_polyline": "",
+                "resource_state": 2
+            },
+            "trainer": false,
+            "commute": false,
+            "manual": true,
+            "private": false,
+            "visibility": "everyone",
+            "flagged": false,
+            "gear_id": null,
+            "start_latlng": [],
+            "end_latlng": [],
+            "average_speed": 4.135,
+            "max_speed": 0,
+            "has_heartrate": false,
+            "heartrate_opt_out": false,
+            "display_hide_heartrate_option": false,
+            "upload_id": null,
+            "external_id": null,
+            "from_accepted_tag": false,
+            "pr_count": 0,
+            "total_photo_count": 0,
+            "has_kudoed": false
+        }
+    ],
+    "activityStreams": [
+        {
+            "activityId": "9039672373",
+            "latlng": [
+                [
+                    40.95992,
+                    -74.107157
+                ],
+                [
+                    40.959912,
+                    -74.107128
+                ],
+                [
+                    40.95986,
+                    -74.107044
+                ],
+                [
+                    40.959817,
+                    -74.106951
+                ],
+                [
+                    40.959796,
+                    -74.106908
+                ],
+                [
+                    40.959758,
+                    -74.106819
+                ],
+                [
+                    40.959714,
+                    -74.10674
+                ],
+                [
+                    40.959665,
+                    -74.106658
+                ],
+                [
+                    40.959612,
+                    -74.106581
+                ],
+                [
+                    40.959562,
+                    -74.106539
+                ],
+                [
+                    40.959472,
+                    -74.106479
+                ],
+                [
+                    40.959401,
+                    -74.106454
+                ],
+                [
+                    40.959266,
+                    -74.106386
+                ],
+                [
+                    40.959238,
+                    -74.106382
+                ],
+                [
+                    40.959092,
+                    -74.106346
+                ],
+                [
+                    40.958952,
+                    -74.106304
+                ],
+                [
+                    40.958858,
+                    -74.106255
+                ],
+                [
+                    40.958832,
+                    -74.106244
+                ],
+                [
+                    40.958772,
+                    -74.106216
+                ],
+                [
+                    40.958621,
+                    -74.106063
+                ],
+                [
+                    40.958582,
+                    -74.106041
+                ],
+                [
+                    40.958447,
+                    -74.105949
+                ],
+                [
+                    40.958394,
+                    -74.105904
+                ],
+                [
+                    40.958231,
+                    -74.10573
+                ],
+                [
+                    40.958144,
+                    -74.105657
+                ],
+                [
+                    40.958089,
+                    -74.105617
+                ],
+                [
+                    40.957928,
+                    -74.105475
+                ],
+                [
+                    40.957899,
+                    -74.105455
+                ],
+                [
+                    40.957827,
+                    -74.105374
+                ],
+                [
+                    40.957754,
+                    -74.105287
+                ],
+                [
+                    40.957617,
+                    -74.105096
+                ],
+                [
+                    40.957574,
+                    -74.105038
+                ],
+                [
+                    40.957453,
+                    -74.104909
+                ],
+                [
+                    40.957323,
+                    -74.104735
+                ],
+                [
+                    40.957275,
+                    -74.10467
+                ],
+                [
+                    40.957231,
+                    -74.104598
+                ],
+                [
+                    40.957167,
+                    -74.104527
+                ],
+                [
+                    40.957041,
+                    -74.104339
+                ],
+                [
+                    40.957016,
+                    -74.104305
+                ],
+                [
+                    40.956894,
+                    -74.104083
+                ],
+                [
+                    40.956815,
+                    -74.103939
+                ],
+                [
+                    40.956689,
+                    -74.103746
+                ],
+                [
+                    40.956642,
+                    -74.103672
+                ],
+                [
+                    40.956552,
+                    -74.103535
+                ],
+                [
+                    40.956498,
+                    -74.103404
+                ],
+                [
+                    40.956483,
+                    -74.103371
+                ],
+                [
+                    40.956416,
+                    -74.103177
+                ],
+                [
+                    40.956316,
+                    -74.102956
+                ],
+                [
+                    40.956263,
+                    -74.102838
+                ],
+                [
+                    40.956223,
+                    -74.102753
+                ],
+                [
+                    40.956186,
+                    -74.102669
+                ],
+                [
+                    40.956087,
+                    -74.102429
+                ],
+                [
+                    40.955988,
+                    -74.102213
+                ],
+                [
+                    40.955967,
+                    -74.102185
+                ],
+                [
+                    40.955822,
+                    -74.102009
+                ],
+                [
+                    40.955692,
+                    -74.101835
+                ],
+                [
+                    40.955671,
+                    -74.101797
+                ],
+                [
+                    40.955573,
+                    -74.101577
+                ],
+                [
+                    40.955557,
+                    -74.101542
+                ],
+                [
+                    40.955514,
+                    -74.101431
+                ],
+                [
+                    40.9555,
+                    -74.101391
+                ],
+                [
+                    40.955425,
+                    -74.101253
+                ],
+                [
+                    40.955338,
+                    -74.101108
+                ],
+                [
+                    40.95526,
+                    -74.100978
+                ],
+                [
+                    40.955198,
+                    -74.100781
+                ],
+                [
+                    40.955092,
+                    -74.100576
+                ],
+                [
+                    40.955057,
+                    -74.100527
+                ],
+                [
+                    40.954909,
+                    -74.100372
+                ],
+                [
+                    40.954871,
+                    -74.100363
+                ],
+                [
+                    40.954759,
+                    -74.100374
+                ],
+                [
+                    40.954588,
+                    -74.100503
+                ],
+                [
+                    40.954556,
+                    -74.100525
+                ],
+                [
+                    40.954376,
+                    -74.100671
+                ],
+                [
+                    40.954347,
+                    -74.100691
+                ],
+                [
+                    40.954178,
+                    -74.1008
+                ],
+                [
+                    40.954104,
+                    -74.1008
+                ],
+                [
+                    40.953942,
+                    -74.100738
+                ],
+                [
+                    40.953828,
+                    -74.100641
+                ],
+                [
+                    40.953809,
+                    -74.100591
+                ],
+                [
+                    40.95377,
+                    -74.100454
+                ],
+                [
+                    40.953754,
+                    -74.10037
+                ],
+                [
+                    40.953692,
+                    -74.100136
+                ],
+                [
+                    40.953669,
+                    -74.100057
+                ],
+                [
+                    40.953594,
+                    -74.099858
+                ],
+                [
+                    40.953459,
+                    -74.099663
+                ],
+                [
+                    40.95327,
+                    -74.099567
+                ],
+                [
+                    40.953157,
+                    -74.09957
+                ],
+                [
+                    40.953048,
+                    -74.099574
+                ],
+                [
+                    40.952888,
+                    -74.099568
+                ],
+                [
+                    40.952708,
+                    -74.099543
+                ],
+                [
+                    40.952678,
+                    -74.099537
+                ],
+                [
+                    40.952516,
+                    -74.099516
+                ],
+                [
+                    40.952423,
+                    -74.099465
+                ],
+                [
+                    40.952286,
+                    -74.099349
+                ],
+                [
+                    40.952261,
+                    -74.099332
+                ],
+                [
+                    40.952125,
+                    -74.099264
+                ],
+                [
+                    40.951938,
+                    -74.099269
+                ],
+                [
+                    40.95188,
+                    -74.099253
+                ],
+                [
+                    40.951794,
+                    -74.099197
+                ],
+                [
+                    40.951732,
+                    -74.099176
+                ],
+                [
+                    40.95167,
+                    -74.099174
+                ],
+                [
+                    40.951642,
+                    -74.099187
+                ],
+                [
+                    40.951469,
+                    -74.09934
+                ],
+                [
+                    40.951434,
+                    -74.099364
+                ],
+                [
+                    40.951261,
+                    -74.099516
+                ],
+                [
+                    40.951233,
+                    -74.099545
+                ],
+                [
+                    40.95118,
+                    -74.099593
+                ],
+                [
+                    40.951088,
+                    -74.099626
+                ],
+                [
+                    40.951031,
+                    -74.099632
+                ],
+                [
+                    40.950967,
+                    -74.099649
+                ],
+                [
+                    40.950794,
+                    -74.099706
+                ],
+                [
+                    40.950734,
+                    -74.099726
+                ],
+                [
+                    40.950699,
+                    -74.099735
+                ],
+                [
+                    40.950627,
+                    -74.099741
+                ],
+                [
+                    40.950565,
+                    -74.099753
+                ],
+                [
+                    40.950371,
+                    -74.099781
+                ],
+                [
+                    40.950341,
+                    -74.099775
+                ],
+                [
+                    40.950138,
+                    -74.099752
+                ],
+                [
+                    40.950101,
+                    -74.099745
+                ],
+                [
+                    40.949898,
+                    -74.099716
+                ],
+                [
+                    40.949867,
+                    -74.099712
+                ],
+                [
+                    40.949842,
+                    -74.0997
+                ],
+                [
+                    40.949752,
+                    -74.099659
+                ],
+                [
+                    40.949622,
+                    -74.099637
+                ],
+                [
+                    40.949556,
+                    -74.099612
+                ],
+                [
+                    40.94936,
+                    -74.099572
+                ],
+                [
+                    40.949321,
+                    -74.099543
+                ],
+                [
+                    40.949146,
+                    -74.099478
+                ],
+                [
+                    40.949082,
+                    -74.099473
+                ],
+                [
+                    40.948907,
+                    -74.099411
+                ],
+                [
+                    40.948871,
+                    -74.099395
+                ],
+                [
+                    40.948703,
+                    -74.099357
+                ],
+                [
+                    40.948569,
+                    -74.099337
+                ],
+                [
+                    40.9485,
+                    -74.099308
+                ],
+                [
+                    40.9483,
+                    -74.099263
+                ],
+                [
+                    40.948135,
+                    -74.099192
+                ],
+                [
+                    40.947949,
+                    -74.099083
+                ],
+                [
+                    40.947919,
+                    -74.099068
+                ],
+                [
+                    40.947748,
+                    -74.098969
+                ],
+                [
+                    40.947567,
+                    -74.098928
+                ],
+                [
+                    40.947529,
+                    -74.098925
+                ],
+                [
+                    40.947325,
+                    -74.098844
+                ],
+                [
+                    40.947136,
+                    -74.098728
+                ],
+                [
+                    40.947015,
+                    -74.098669
+                ],
+                [
+                    40.946957,
+                    -74.098639
+                ],
+                [
+                    40.946794,
+                    -74.098532
+                ],
+                [
+                    40.946715,
+                    -74.098394
+                ],
+                [
+                    40.946592,
+                    -74.098184
+                ],
+                [
+                    40.946532,
+                    -74.098083
+                ],
+                [
+                    40.946389,
+                    -74.097887
+                ],
+                [
+                    40.946251,
+                    -74.097703
+                ],
+                [
+                    40.946182,
+                    -74.0977
+                ],
+                [
+                    40.946158,
+                    -74.097717
+                ],
+                [
+                    40.946083,
+                    -74.097772
+                ],
+                [
+                    40.945915,
+                    -74.097867
+                ],
+                [
+                    40.945818,
+                    -74.0979
+                ],
+                [
+                    40.945649,
+                    -74.097875
+                ],
+                [
+                    40.945557,
+                    -74.097702
+                ],
+                [
+                    40.945435,
+                    -74.097484
+                ],
+                [
+                    40.945414,
+                    -74.097453
+                ],
+                [
+                    40.945297,
+                    -74.097219
+                ],
+                [
+                    40.945279,
+                    -74.09718
+                ],
+                [
+                    40.945175,
+                    -74.096995
+                ],
+                [
+                    40.945154,
+                    -74.096954
+                ],
+                [
+                    40.945037,
+                    -74.096725
+                ],
+                [
+                    40.945004,
+                    -74.096654
+                ],
+                [
+                    40.944891,
+                    -74.096439
+                ],
+                [
+                    40.944871,
+                    -74.096401
+                ],
+                [
+                    40.944782,
+                    -74.096243
+                ],
+                [
+                    40.944693,
+                    -74.096085
+                ],
+                [
+                    40.944647,
+                    -74.096013
+                ],
+                [
+                    40.944504,
+                    -74.095809
+                ],
+                [
+                    40.944374,
+                    -74.095598
+                ],
+                [
+                    40.944353,
+                    -74.095563
+                ],
+                [
+                    40.944215,
+                    -74.095358
+                ],
+                [
+                    40.944191,
+                    -74.095324
+                ],
+                [
+                    40.944053,
+                    -74.095115
+                ],
+                [
+                    40.943903,
+                    -74.094937
+                ],
+                [
+                    40.943875,
+                    -74.094909
+                ],
+                [
+                    40.943725,
+                    -74.094744
+                ],
+                [
+                    40.943576,
+                    -74.094686
+                ],
+                [
+                    40.943405,
+                    -74.094623
+                ],
+                [
+                    40.943368,
+                    -74.094616
+                ],
+                [
+                    40.943188,
+                    -74.094547
+                ],
+                [
+                    40.943124,
+                    -74.094522
+                ],
+                [
+                    40.942927,
+                    -74.094418
+                ],
+                [
+                    40.942896,
+                    -74.094411
+                ],
+                [
+                    40.942697,
+                    -74.094368
+                ],
+                [
+                    40.942518,
+                    -74.094376
+                ],
+                [
+                    40.942313,
+                    -74.094352
+                ],
+                [
+                    40.94228,
+                    -74.094352
+                ],
+                [
+                    40.94208,
+                    -74.094341
+                ],
+                [
+                    40.942011,
+                    -74.094334
+                ],
+                [
+                    40.941808,
+                    -74.09429
+                ],
+                [
+                    40.941619,
+                    -74.094273
+                ],
+                [
+                    40.94159,
+                    -74.094274
+                ],
+                [
+                    40.941571,
+                    -74.094303
+                ],
+                [
+                    40.941483,
+                    -74.09439
+                ],
+                [
+                    40.941448,
+                    -74.09442
+                ],
+                [
+                    40.941334,
+                    -74.094534
+                ],
+                [
+                    40.941176,
+                    -74.094702
+                ],
+                [
+                    40.94113,
+                    -74.094761
+                ],
+                [
+                    40.941106,
+                    -74.094794
+                ],
+                [
+                    40.941003,
+                    -74.094876
+                ],
+                [
+                    40.940973,
+                    -74.094877
+                ],
+                [
+                    40.940778,
+                    -74.09482
+                ],
+                [
+                    40.940578,
+                    -74.094762
+                ],
+                [
+                    40.940476,
+                    -74.094766
+                ],
+                [
+                    40.940269,
+                    -74.094767
+                ],
+                [
+                    40.940235,
+                    -74.094769
+                ],
+                [
+                    40.940029,
+                    -74.094824
+                ],
+                [
+                    40.93993,
+                    -74.094856
+                ],
+                [
+                    40.939724,
+                    -74.094924
+                ],
+                [
+                    40.939617,
+                    -74.094966
+                ],
+                [
+                    40.939423,
+                    -74.095011
+                ],
+                [
+                    40.939232,
+                    -74.095035
+                ],
+                [
+                    40.939128,
+                    -74.095045
+                ],
+                [
+                    40.938968,
+                    -74.095028
+                ],
+                [
+                    40.938787,
+                    -74.095023
+                ],
+                [
+                    40.938597,
+                    -74.095008
+                ],
+                [
+                    40.938519,
+                    -74.094973
+                ],
+                [
+                    40.938361,
+                    -74.094955
+                ],
+                [
+                    40.938309,
+                    -74.094932
+                ],
+                [
+                    40.93821,
+                    -74.094905
+                ],
+                [
+                    40.938149,
+                    -74.094891
+                ],
+                [
+                    40.937959,
+                    -74.094803
+                ],
+                [
+                    40.937889,
+                    -74.094779
+                ],
+                [
+                    40.937699,
+                    -74.094696
+                ],
+                [
+                    40.937652,
+                    -74.094677
+                ],
+                [
+                    40.937566,
+                    -74.094634
+                ],
+                [
+                    40.937527,
+                    -74.094609
+                ],
+                [
+                    40.937426,
+                    -74.094529
+                ],
+                [
+                    40.937396,
+                    -74.094509
+                ],
+                [
+                    40.937226,
+                    -74.094446
+                ],
+                [
+                    40.937061,
+                    -74.09433
+                ],
+                [
+                    40.936882,
+                    -74.094278
+                ],
+                [
+                    40.936777,
+                    -74.094268
+                ],
+                [
+                    40.936742,
+                    -74.094265
+                ],
+                [
+                    40.936577,
+                    -74.094269
+                ],
+                [
+                    40.936428,
+                    -74.094241
+                ],
+                [
+                    40.936285,
+                    -74.094165
+                ],
+                [
+                    40.93609,
+                    -74.094081
+                ],
+                [
+                    40.936037,
+                    -74.094057
+                ],
+                [
+                    40.936013,
+                    -74.094044
+                ],
+                [
+                    40.935839,
+                    -74.093937
+                ],
+                [
+                    40.935682,
+                    -74.093819
+                ],
+                [
+                    40.93562,
+                    -74.093786
+                ],
+                [
+                    40.93543,
+                    -74.093686
+                ],
+                [
+                    40.935241,
+                    -74.093592
+                ],
+                [
+                    40.935226,
+                    -74.093578
+                ],
+                [
+                    40.935224,
+                    -74.093569
+                ],
+                [
+                    40.93525,
+                    -74.093588
+                ],
+                [
+                    40.935363,
+                    -74.093652
+                ],
+                [
+                    40.935555,
+                    -74.093761
+                ],
+                [
+                    40.935729,
+                    -74.093911
+                ],
+                [
+                    40.935754,
+                    -74.093932
+                ],
+                [
+                    40.935886,
+                    -74.094027
+                ],
+                [
+                    40.936057,
+                    -74.09415
+                ],
+                [
+                    40.936095,
+                    -74.094166
+                ],
+                [
+                    40.936279,
+                    -74.094259
+                ],
+                [
+                    40.936464,
+                    -74.094353
+                ],
+                [
+                    40.936564,
+                    -74.094394
+                ],
+                [
+                    40.936649,
+                    -74.094385
+                ],
+                [
+                    40.93676,
+                    -74.094387
+                ],
+                [
+                    40.936874,
+                    -74.094382
+                ],
+                [
+                    40.937052,
+                    -74.094414
+                ],
+                [
+                    40.937147,
+                    -74.094444
+                ],
+                [
+                    40.937344,
+                    -74.094569
+                ],
+                [
+                    40.937523,
+                    -74.094647
+                ],
+                [
+                    40.937553,
+                    -74.094663
+                ],
+                [
+                    40.937721,
+                    -74.094753
+                ],
+                [
+                    40.937779,
+                    -74.094784
+                ],
+                [
+                    40.937812,
+                    -74.094809
+                ],
+                [
+                    40.937831,
+                    -74.094818
+                ],
+                [
+                    40.937908,
+                    -74.094854
+                ],
+                [
+                    40.938004,
+                    -74.094929
+                ],
+                [
+                    40.938183,
+                    -74.094999
+                ],
+                [
+                    40.938316,
+                    -74.095042
+                ],
+                [
+                    40.938494,
+                    -74.095106
+                ],
+                [
+                    40.938568,
+                    -74.095128
+                ],
+                [
+                    40.938759,
+                    -74.095169
+                ],
+                [
+                    40.938835,
+                    -74.095183
+                ],
+                [
+                    40.938872,
+                    -74.095189
+                ],
+                [
+                    40.939064,
+                    -74.095202
+                ],
+                [
+                    40.939249,
+                    -74.095198
+                ],
+                [
+                    40.939319,
+                    -74.095193
+                ],
+                [
+                    40.939515,
+                    -74.095146
+                ],
+                [
+                    40.939601,
+                    -74.095131
+                ],
+                [
+                    40.939787,
+                    -74.095078
+                ],
+                [
+                    40.939926,
+                    -74.095021
+                ],
+                [
+                    40.940112,
+                    -74.094953
+                ],
+                [
+                    40.940217,
+                    -74.094919
+                ],
+                [
+                    40.940402,
+                    -74.094893
+                ],
+                [
+                    40.940459,
+                    -74.094879
+                ],
+                [
+                    40.94062,
+                    -74.094865
+                ],
+                [
+                    40.940811,
+                    -74.094942
+                ],
+                [
+                    40.940853,
+                    -74.094951
+                ],
+                [
+                    40.940968,
+                    -74.094923
+                ],
+                [
+                    40.941054,
+                    -74.094787
+                ],
+                [
+                    40.941189,
+                    -74.094606
+                ],
+                [
+                    40.941308,
+                    -74.094472
+                ],
+                [
+                    40.941433,
+                    -74.094417
+                ],
+                [
+                    40.941488,
+                    -74.094317
+                ],
+                [
+                    40.941565,
+                    -74.09431
+                ],
+                [
+                    40.941757,
+                    -74.094359
+                ],
+                [
+                    40.941796,
+                    -74.094366
+                ],
+                [
+                    40.941956,
+                    -74.094406
+                ],
+                [
+                    40.942086,
+                    -74.094407
+                ],
+                [
+                    40.942224,
+                    -74.094392
+                ],
+                [
+                    40.942433,
+                    -74.094419
+                ],
+                [
+                    40.942628,
+                    -74.094445
+                ],
+                [
+                    40.94274,
+                    -74.094483
+                ],
+                [
+                    40.942928,
+                    -74.094536
+                ],
+                [
+                    40.942968,
+                    -74.094541
+                ],
+                [
+                    40.943162,
+                    -74.094618
+                ],
+                [
+                    40.943227,
+                    -74.094638
+                ],
+                [
+                    40.943395,
+                    -74.094704
+                ],
+                [
+                    40.943579,
+                    -74.094819
+                ],
+                [
+                    40.943714,
+                    -74.094945
+                ],
+                [
+                    40.943885,
+                    -74.095123
+                ],
+                [
+                    40.944022,
+                    -74.095258
+                ],
+                [
+                    40.944161,
+                    -74.095455
+                ],
+                [
+                    40.944265,
+                    -74.095665
+                ],
+                [
+                    40.944304,
+                    -74.095745
+                ],
+                [
+                    40.944415,
+                    -74.095934
+                ],
+                [
+                    40.944448,
+                    -74.096015
+                ],
+                [
+                    40.94454,
+                    -74.096252
+                ],
+                [
+                    40.944669,
+                    -74.096421
+                ],
+                [
+                    40.944691,
+                    -74.096457
+                ],
+                [
+                    40.9448,
+                    -74.09665
+                ],
+                [
+                    40.944887,
+                    -74.096864
+                ],
+                [
+                    40.944984,
+                    -74.097061
+                ],
+                [
+                    40.945119,
+                    -74.097255
+                ],
+                [
+                    40.945132,
+                    -74.097297
+                ],
+                [
+                    40.945247,
+                    -74.097514
+                ],
+                [
+                    40.945319,
+                    -74.097607
+                ],
+                [
+                    40.94536,
+                    -74.097673
+                ],
+                [
+                    40.945475,
+                    -74.097886
+                ],
+                [
+                    40.94558,
+                    -74.098085
+                ],
+                [
+                    40.945668,
+                    -74.098138
+                ],
+                [
+                    40.945698,
+                    -74.098127
+                ],
+                [
+                    40.945754,
+                    -74.098069
+                ],
+                [
+                    40.9459,
+                    -74.097948
+                ],
+                [
+                    40.945973,
+                    -74.097895
+                ],
+                [
+                    40.946153,
+                    -74.097801
+                ],
+                [
+                    40.946242,
+                    -74.097822
+                ],
+                [
+                    40.946323,
+                    -74.097941
+                ],
+                [
+                    40.946356,
+                    -74.097979
+                ],
+                [
+                    40.946508,
+                    -74.098181
+                ],
+                [
+                    40.946607,
+                    -74.098324
+                ],
+                [
+                    40.946645,
+                    -74.098411
+                ],
+                [
+                    40.946708,
+                    -74.098577
+                ],
+                [
+                    40.946762,
+                    -74.098628
+                ],
+                [
+                    40.946954,
+                    -74.09876
+                ],
+                [
+                    40.946996,
+                    -74.098773
+                ],
+                [
+                    40.947185,
+                    -74.098871
+                ],
+                [
+                    40.947355,
+                    -74.098957
+                ],
+                [
+                    40.947487,
+                    -74.099019
+                ],
+                [
+                    40.947681,
+                    -74.099048
+                ],
+                [
+                    40.947754,
+                    -74.099088
+                ],
+                [
+                    40.947927,
+                    -74.099196
+                ],
+                [
+                    40.948109,
+                    -74.099296
+                ],
+                [
+                    40.948126,
+                    -74.099306
+                ],
+                [
+                    40.948309,
+                    -74.099353
+                ],
+                [
+                    40.948344,
+                    -74.099358
+                ],
+                [
+                    40.948538,
+                    -74.09938
+                ],
+                [
+                    40.94872,
+                    -74.099458
+                ],
+                [
+                    40.948911,
+                    -74.099515
+                ],
+                [
+                    40.94895,
+                    -74.09953
+                ],
+                [
+                    40.949145,
+                    -74.099621
+                ],
+                [
+                    40.949183,
+                    -74.099635
+                ],
+                [
+                    40.949251,
+                    -74.09966
+                ],
+                [
+                    40.949362,
+                    -74.09971
+                ],
+                [
+                    40.949389,
+                    -74.099719
+                ],
+                [
+                    40.949548,
+                    -74.099776
+                ],
+                [
+                    40.949656,
+                    -74.099804
+                ],
+                [
+                    40.949806,
+                    -74.09986
+                ],
+                [
+                    40.950015,
+                    -74.099896
+                ],
+                [
+                    40.950114,
+                    -74.0999
+                ],
+                [
+                    40.950304,
+                    -74.099875
+                ],
+                [
+                    40.950438,
+                    -74.099877
+                ],
+                [
+                    40.95064,
+                    -74.099842
+                ],
+                [
+                    40.95084,
+                    -74.099788
+                ],
+                [
+                    40.951021,
+                    -74.099697
+                ],
+                [
+                    40.951173,
+                    -74.099597
+                ],
+                [
+                    40.951313,
+                    -74.099407
+                ],
+                [
+                    40.951353,
+                    -74.099347
+                ],
+                [
+                    40.951451,
+                    -74.099239
+                ],
+                [
+                    40.951608,
+                    -74.099159
+                ],
+                [
+                    40.95163,
+                    -74.099167
+                ],
+                [
+                    40.951692,
+                    -74.099209
+                ],
+                [
+                    40.951858,
+                    -74.099253
+                ],
+                [
+                    40.952038,
+                    -74.099289
+                ],
+                [
+                    40.952073,
+                    -74.099302
+                ],
+                [
+                    40.952121,
+                    -74.099354
+                ],
+                [
+                    40.952177,
+                    -74.099404
+                ],
+                [
+                    40.952315,
+                    -74.099562
+                ],
+                [
+                    40.952389,
+                    -74.099628
+                ],
+                [
+                    40.952512,
+                    -74.099646
+                ],
+                [
+                    40.952722,
+                    -74.099666
+                ],
+                [
+                    40.952791,
+                    -74.099667
+                ],
+                [
+                    40.952988,
+                    -74.099685
+                ],
+                [
+                    40.953178,
+                    -74.099687
+                ],
+                [
+                    40.953239,
+                    -74.099716
+                ],
+                [
+                    40.953411,
+                    -74.099858
+                ],
+                [
+                    40.953493,
+                    -74.100044
+                ],
+                [
+                    40.953567,
+                    -74.100243
+                ],
+                [
+                    40.953681,
+                    -74.100486
+                ],
+                [
+                    40.953786,
+                    -74.10073
+                ],
+                [
+                    40.953883,
+                    -74.100809
+                ],
+                [
+                    40.953917,
+                    -74.100826
+                ],
+                [
+                    40.954098,
+                    -74.100878
+                ],
+                [
+                    40.9542,
+                    -74.100844
+                ],
+                [
+                    40.954378,
+                    -74.100726
+                ],
+                [
+                    40.954532,
+                    -74.100585
+                ],
+                [
+                    40.954595,
+                    -74.10054
+                ],
+                [
+                    40.954758,
+                    -74.100439
+                ],
+                [
+                    40.954794,
+                    -74.100438
+                ],
+                [
+                    40.954934,
+                    -74.100513
+                ],
+                [
+                    40.955068,
+                    -74.100703
+                ],
+                [
+                    40.955132,
+                    -74.100769
+                ],
+                [
+                    40.955227,
+                    -74.100928
+                ],
+                [
+                    40.955347,
+                    -74.101156
+                ],
+                [
+                    40.955357,
+                    -74.101201
+                ],
+                [
+                    40.955427,
+                    -74.101442
+                ],
+                [
+                    40.955498,
+                    -74.101669
+                ],
+                [
+                    40.955522,
+                    -74.101708
+                ],
+                [
+                    40.955637,
+                    -74.101896
+                ],
+                [
+                    40.955714,
+                    -74.101995
+                ],
+                [
+                    40.955861,
+                    -74.10218
+                ],
+                [
+                    40.956007,
+                    -74.10234
+                ],
+                [
+                    40.95608,
+                    -74.102599
+                ],
+                [
+                    40.956108,
+                    -74.102623
+                ],
+                [
+                    40.956212,
+                    -74.102806
+                ],
+                [
+                    40.95629,
+                    -74.103022
+                ],
+                [
+                    40.956304,
+                    -74.103065
+                ],
+                [
+                    40.956405,
+                    -74.103301
+                ],
+                [
+                    40.956498,
+                    -74.103506
+                ],
+                [
+                    40.956533,
+                    -74.103593
+                ],
+                [
+                    40.956633,
+                    -74.103792
+                ],
+                [
+                    40.956664,
+                    -74.103863
+                ],
+                [
+                    40.95675,
+                    -74.104081
+                ],
+                [
+                    40.956798,
+                    -74.104159
+                ],
+                [
+                    40.956922,
+                    -74.104333
+                ],
+                [
+                    40.956971,
+                    -74.104404
+                ],
+                [
+                    40.957124,
+                    -74.10458
+                ],
+                [
+                    40.957182,
+                    -74.104629
+                ],
+                [
+                    40.957337,
+                    -74.104815
+                ],
+                [
+                    40.957388,
+                    -74.104882
+                ],
+                [
+                    40.95751,
+                    -74.105071
+                ],
+                [
+                    40.95766,
+                    -74.105247
+                ],
+                [
+                    40.957713,
+                    -74.105318
+                ],
+                [
+                    40.957826,
+                    -74.105514
+                ],
+                [
+                    40.957963,
+                    -74.105683
+                ],
+                [
+                    40.957996,
+                    -74.105707
+                ],
+                [
+                    40.958166,
+                    -74.105823
+                ],
+                [
+                    40.958231,
+                    -74.105872
+                ],
+                [
+                    40.958405,
+                    -74.105991
+                ],
+                [
+                    40.958437,
+                    -74.106007
+                ],
+                [
+                    40.958614,
+                    -74.106135
+                ],
+                [
+                    40.958647,
+                    -74.106152
+                ],
+                [
+                    40.958834,
+                    -74.106258
+                ],
+                [
+                    40.958885,
+                    -74.106293
+                ],
+                [
+                    40.959065,
+                    -74.106366
+                ],
+                [
+                    40.959142,
+                    -74.106386
+                ],
+                [
+                    40.959324,
+                    -74.106443
+                ],
+                [
+                    40.959452,
+                    -74.106509
+                ],
+                [
+                    40.959609,
+                    -74.106641
+                ],
+                [
+                    40.959634,
+                    -74.106672
+                ],
+                [
+                    40.959781,
+                    -74.106859
+                ],
+                [
+                    40.959795,
+                    -74.106892
+                ]
+            ],
+            "distance": [
+                1.8,
+                3.4,
+                12.2,
+                21.1,
+                25.4,
+                33.9,
+                42.1,
+                50.8,
+                59.5,
+                66.0,
+                76.7,
+                84.8,
+                100.8,
+                103.9,
+                120.4,
+                136.3,
+                147.4,
+                150.5,
+                157.5,
+                177.5,
+                182.3,
+                199.1,
+                206.1,
+                229.4,
+                240.8,
+                247.8,
+                269.4,
+                273.0,
+                283.5,
+                294.5,
+                316.7,
+                323.5,
+                340.7,
+                361.2,
+                368.9,
+                376.7,
+                385.9,
+                407.1,
+                411.1,
+                434.2,
+                449.1,
+                470.6,
+                478.8,
+                494.0,
+                506.5,
+                509.7,
+                527.7,
+                549.3,
+                560.9,
+                569.3,
+                577.4,
+                600.5,
+                621.7,
+                625.0,
+                647.0,
+                667.4,
+                671.4,
+                692.8,
+                696.2,
+                706.7,
+                710.5,
+                724.7,
+                740.2,
+                754.3,
+                772.2,
+                793.1,
+                798.8,
+                819.9,
+                824.1,
+                836.8,
+                858.6,
+                862.6,
+                886.0,
+                889.6,
+                910.6,
+                918.8,
+                937.5,
+                952.6,
+                957.3,
+                969.5,
+                976.8,
+                997.6,
+                1004.7,
+                1023.5,
+                1045.7,
+                1068.5,
+                1081.1,
+                1093.2,
+                1110.9,
+                1131.1,
+                1134.5,
+                1152.5,
+                1163.8,
+                1181.8,
+                1185.0,
+                1201.3,
+                1221.9,
+                1228.5,
+                1239.1,
+                1246.2,
+                1252.8,
+                1256.0,
+                1278.9,
+                1283.1,
+                1305.9,
+                1309.9,
+                1317.0,
+                1327.4,
+                1333.6,
+                1340.9,
+                1360.8,
+                1367.7,
+                1371.7,
+                1379.6,
+                1386.6,
+                1408.3,
+                1411.7,
+                1434.4,
+                1438.6,
+                1461.2,
+                1464.7,
+                1467.6,
+                1478.1,
+                1492.8,
+                1500.4,
+                1522.4,
+                1527.3,
+                1547.4,
+                1554.6,
+                1574.6,
+                1578.8,
+                1597.8,
+                1612.8,
+                1620.9,
+                1643.6,
+                1662.9,
+                1685.5,
+                1689.1,
+                1709.8,
+                1730.4,
+                1734.6,
+                1758.3,
+                1781.4,
+                1795.8,
+                1802.8,
+                1823.1,
+                1837.7,
+                1860.1,
+                1870.9,
+                1893.7,
+                1915.7,
+                1923.5,
+                1926.5,
+                1936.1,
+                1956.2,
+                1967.1,
+                1986.4,
+                2004.4,
+                2027.1,
+                2030.7,
+                2054.3,
+                2058.1,
+                2077.5,
+                2081.6,
+                2104.9,
+                2111.9,
+                2133.9,
+                2137.8,
+                2154.4,
+                2171.0,
+                2178.9,
+                2202.3,
+                2225.1,
+                2229.0,
+                2252.0,
+                2255.9,
+                2279.3,
+                2301.9,
+                2305.9,
+                2327.6,
+                2344.9,
+                2364.6,
+                2368.8,
+                2389.6,
+                2397.0,
+                2420.4,
+                2424.0,
+                2446.4,
+                2466.1,
+                2489.0,
+                2492.8,
+                2514.9,
+                2522.5,
+                2545.4,
+                2566.5,
+                2569.7,
+                2572.9,
+                2584.9,
+                2589.6,
+                2605.4,
+                2628.0,
+                2635.0,
+                2638.9,
+                2652.5,
+                2655.8,
+                2677.9,
+                2700.6,
+                2712.0,
+                2734.9,
+                2738.8,
+                2762.1,
+                2773.4,
+                2797.0,
+                2809.3,
+                2831.2,
+                2852.5,
+                2864.1,
+                2881.9,
+                2902.1,
+                2923.2,
+                2932.2,
+                2949.7,
+                2955.9,
+                2967.1,
+                2973.9,
+                2996.1,
+                3004.1,
+                3026.3,
+                3031.7,
+                3041.9,
+                3046.6,
+                3059.6,
+                3063.4,
+                3082.9,
+                3103.8,
+                3124.1,
+                3135.8,
+                3139.7,
+                3158.1,
+                3175.2,
+                3192.3,
+                3215.1,
+                3221.3,
+                3224.2,
+                3245.5,
+                3265.7,
+                3273.1,
+                3295.9,
+                3318.4,
+                3320.3,
+                3321.1,
+                3324.3,
+                3337.9,
+                3361.2,
+                3384.2,
+                3387.5,
+                3404.0,
+                3425.4,
+                3429.8,
+                3451.9,
+                3473.9,
+                3485.4,
+                3494.9,
+                3507.2,
+                3519.8,
+                3539.9,
+                3550.7,
+                3574.8,
+                3595.6,
+                3599.2,
+                3619.4,
+                3626.4,
+                3630.5,
+                3632.8,
+                3641.9,
+                3654.2,
+                3674.8,
+                3690.1,
+                3710.6,
+                3718.9,
+                3740.4,
+                3749.0,
+                3753.1,
+                3774.5,
+                3795.1,
+                3802.9,
+                3825.0,
+                3834.6,
+                3855.7,
+                3871.9,
+                3893.4,
+                3905.3,
+                3926.0,
+                3932.4,
+                3950.3,
+                3972.7,
+                3977.4,
+                3990.6,
+                4005.5,
+                4026.9,
+                4044.3,
+                4059.4,
+                4069.3,
+                4077.9,
+                4099.6,
+                4103.9,
+                4122.0,
+                4136.4,
+                4151.7,
+                4175.0,
+                4196.8,
+                4209.7,
+                4231.0,
+                4235.5,
+                4257.8,
+                4265.1,
+                4284.8,
+                4307.4,
+                4326.0,
+                4349.9,
+                4368.9,
+                4391.7,
+                4412.8,
+                4420.7,
+                4440.9,
+                4448.3,
+                4470.7,
+                4490.8,
+                4494.7,
+                4515.0,
+                4535.3,
+                4555.1,
+                4577.1,
+                4580.9,
+                4603.2,
+                4614.4,
+                4621.6,
+                4643.6,
+                4664.1,
+                4674.9,
+                4678.4,
+                4686.3,
+                4705.4,
+                4714.7,
+                4736.2,
+                4746.6,
+                4760.0,
+                4764.7,
+                4788.7,
+                4804.9,
+                4813.2,
+                4828.5,
+                4835.8,
+                4859.8,
+                4864.5,
+                4887.1,
+                4907.3,
+                4922.8,
+                4944.5,
+                4953.1,
+                4974.6,
+                4996.5,
+                4998.6,
+                5019.3,
+                5023.3,
+                5045.0,
+                5066.2,
+                5087.9,
+                5092.4,
+                5115.2,
+                5119.6,
+                5127.5,
+                5140.5,
+                5143.6,
+                5161.8,
+                5174.0,
+                5191.3,
+                5214.6,
+                5225.6,
+                5246.7,
+                5261.6,
+                5284.4,
+                5307.0,
+                5328.4,
+                5347.5,
+                5369.9,
+                5376.7,
+                5390.8,
+                5410.2,
+                5412.7,
+                5420.4,
+                5439.5,
+                5459.7,
+                5463.7,
+                5470.5,
+                5478.0,
+                5498.2,
+                5508.0,
+                5521.7,
+                5545.1,
+                5552.8,
+                5574.7,
+                5595.8,
+                5602.9,
+                5625.8,
+                5643.6,
+                5662.3,
+                5686.5,
+                5710.3,
+                5722.8,
+                5726.9,
+                5747.4,
+                5759.2,
+                5781.5,
+                5802.3,
+                5810.2,
+                5830.6,
+                5834.6,
+                5851.9,
+                5873.6,
+                5882.5,
+                5899.2,
+                5922.4,
+                5926.4,
+                5947.7,
+                5967.8,
+                5972.0,
+                5992.2,
+                6004.2,
+                6026.7,
+                6048.0,
+                6070.8,
+                6074.3,
+                6093.4,
+                6113.5,
+                6117.4,
+                6139.9,
+                6160.0,
+                6168.3,
+                6188.4,
+                6195.3,
+                6216.0,
+                6224.5,
+                6244.5,
+                6252.5,
+                6274.9,
+                6282.5,
+                6305.8,
+                6313.7,
+                6333.6,
+                6355.8,
+                6364.2,
+                6384.7,
+                6405.7,
+                6409.8,
+                6431.1,
+                6439.3,
+                6461.1,
+                6464.9,
+                6487.4,
+                6491.3,
+                6513.8,
+                6520.1,
+                6541.1,
+                6549.8,
+                6570.6,
+                6585.8,
+                6606.7,
+                6610.5,
+                6633.3,
+                6636.4
+            ]
+        }
+    ]
+}

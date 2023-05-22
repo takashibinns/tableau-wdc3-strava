@@ -1,0 +1,55 @@
+{
+  "name": "Strava",
+  "version": "1.0.0",
+  "tableau-version": {
+    "min": "2023.1"
+  },
+  "vendor": {
+    "name": "Beta",
+    "support-link": "https://developer.tableau.com",
+    "email": "developer@tableau.com"
+  },
+  "auth": {
+    "type": "oauth2",
+    "oauth": {
+      "clientIdDesktop": "<client-id>",
+      "clientSecretDesktop": "<client-secret>",
+      "redirectUrisDesktop": [
+        "http://localhost:55555/Callback"
+      ],
+      "authUri": "https://www.strava.com/oauth/authorize",
+      "tokenUri": "https://www.strava.com/api/v3/oauth/token",
+      "userInfoUri": "https://www.strava.com/api/v3/athlete",
+      "scopes": [
+        "activity:read_all"
+      ],
+      "capabilities": {
+        "OAUTH_CAP_FIXED_PORT_IN_CALLBACK_URL": false,
+        "OAUTH_CAP_CLIENT_SECRET_IN_URL_QUERY_PARAM": true,
+        "OAUTH_CAP_PKCE_REQUIRES_CODE_CHALLENGE_METHOD": true,
+        "OAUTH_CAP_REQUIRE_PKCE": true
+      },
+      "accessTokenResponseMaps": {
+        "ACCESSTOKEN": "access_token",
+        "REFRESHTOKEN": "refresh_token",
+        "access-token-issue-time": "expires_at",
+        "access-token-expires-in": "expires_in",
+        "username": "athelete",
+        "code": "code"
+      }
+    }
+  },
+  "permission": {
+    "api": {
+      "https://www.strava.com/api/v3/*": [
+        "GET",
+        "POST",
+        "HEAD"
+      ]
+    }
+  },
+  "window": {
+    "height": 900,
+    "width": 770
+  }
+}

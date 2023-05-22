@@ -1,4 +1,12 @@
+# Tableau Files
+connection-fields.xml
+connection-metadata.xml
+manifest.xml
+oauth-config.xml
+*.taco
+
 # Logs
+log*
 logs
 *.log
 npm-debug.log*
