@@ -14,6 +14,22 @@ export default class OAuthParser extends AsyncParser {
     const dataTables = testParser.JsonParser(fetcherResults,"activities")
     //log(`parsed data: ${JSON.stringify(dataTables)}`)
 
+    /*  Tried this approach to see if it would fix the join issue - it did not
+    //  Loop through each datatable returned
+    dataTables.forEach( (dataTable:any) => {
+
+      //  Check to see if the table exists already
+      const { isNew, tableBuilder } = containerBuilder.getTable(dataTable.name)
+      if (isNew) {
+        tableBuilder.setId(dataTable.id);
+        tableBuilder.addColumnHeaders(dataTable.columns);
+      }
+
+      //  Either way, add the rows
+      tableBuilder.addRows(dataTable.rows);
+    })
+    */
+
     //  Add the tables to ContainerBuilder
     containerBuilder.appendTables(dataTables);
 
