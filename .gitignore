@@ -114,3 +114,4 @@ dist
 
 *.DS_Store
 connector/.parcel-cache*
+.vscode*
