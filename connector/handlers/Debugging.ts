@@ -1,7 +1,7 @@
 import { log as tacoLogger } from '@tableau/taco-toolkit/handlers'
 
-//  Global setting for whether we are should use taco-toolkit's logger or not (true mean use it)
-const debugging = true;
+//  Use env variable to decide whether we are should use taco-toolkit's logger or not (true mean use it)
+const debugging = (process.env.DEBUGGING === "true");
 
 //  Define the logging function
 const Log = (message:string, level:string='Info', ) => {

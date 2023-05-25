@@ -50,3 +50,30 @@ const test = async () => {
 
 //  Execute the test
 test();
+
+/*
+//  Launch.json should look something like this
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Test Parser",
+            "env": {
+                "DEBUGGING": "true"
+            },
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "runtimeArgs": [
+                "-r",
+                "/usr/local/lib/node_modules/ts-node/register"
+            ],
+            "args": [
+                "${workspaceFolder}/strava/connector/test/testFetcher.js"
+            ]            
+        }
+    ]
+}
+*/

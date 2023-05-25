@@ -59,6 +59,9 @@ test();
             "type": "node",
             "request": "launch",
             "name": "Test Parser",
+            "env": {
+                "DEBUGGING": "true"
+            },
             "skipFiles": [
                 "<node_internals>/**"
             ],
