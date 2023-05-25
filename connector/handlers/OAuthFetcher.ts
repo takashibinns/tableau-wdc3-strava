@@ -11,7 +11,7 @@ const defaultSettings = {
   }
 }
 
-//  Function to retrieve the 
+//  Function to retrieve the data streams for an activity
 const fetchActivityStream = async (activityId:string, headers:any, streamType:string='latlng') => {
 
   //  Define the API endpoint
@@ -43,6 +43,16 @@ const fetchActivityStream = async (activityId:string, headers:any, streamType:st
     //  Return the activity stream object
     return activityStream;
   })
+}
+
+//  Function to retrieve the details of a gear item
+const fetchGear = async (gearId:string, headers:any) => {
+
+  //  Define the API endpoint
+  const url = `https://www.strava.com/api/v3/gear/${gearId}`;
+
+  //  Return the promise
+  return FetchUtils.fetchJson(url, { headers });
 }
 
 export default class OAuthFetcher extends Fetcher {
@@ -112,22 +122,44 @@ export default class OAuthFetcher extends Fetcher {
       'activities': activities
     }
 
-    //  Did the user ask to fetch activity stream data?
-    if (streamTypes.length == 0) {
-      log(`No stream types specified, so skip building that table`);
-    } else {
-      //  Create an array of promises for each activity's Stream API call (for getting the latlng coordinates)
-      let activityStreamPromises: Promise<any>[] = [];
-      activities.forEach( (activity:any) => {
-        //  Skip manually entered activities, as they won't have a data stream
-        if (!activity.manual) {
+    //  Create promise arrays for gear and activity streams
+    let gearPromises: Promise<any>[] = [];
+    let activityStreamPromises: Promise<any>[] = [];
+    let gearList:any = {};
+    const getDataStreams = (streamTypes.length > 0);
+
+    //  Loop through each activity
+    activities.forEach( (activity:any) => {
+
+      //  Skip manually entered activities, as they won't have a data stream
+      if (!activity.manual) {
+
+        //  Do we need to fetch any data streams?
+        if (getDataStreams) {
+          //  Create a promise to fetch data streams for this activity
           activityStreamPromises.push(fetchActivityStream(activity.id, headers, streamTypes.join(',')));
         }
-      })
 
-      //  Execute all the API calls, and get the result
+        //  Do we need to fetch the details for this activity's gear? (gear_id != null AND we haven't fetched this gear yet)
+        if (activity.gear_id && !gearList[activity.gear_id]) {
+          //  Add the promise to the array
+          gearPromises.push(fetchGear(activity.gear_id, headers));
+          //  Mark this gear as already fetched
+          gearList[activity.gear_id] = true;
+        }
+      }
+    })
+
+    //  Execute all the API calls for gear, and get the results
+    results['gear'] = await Promise.all(gearPromises);
+
+    //  Did the user ask to fetch activity stream data?
+    if (getDataStreams){  
+      //  Execute all the API calls for data streams, and get the result
       log(`Fetch data streams for ${activityStreamPromises.length} activities (skipping manual entries)`)
       results['activityStreams'] = await Promise.all(activityStreamPromises);
+    } else {
+      log(`No stream types specified, so skip building that table`);
     }
 
     //  Pass along the strava activities
