@@ -1,4 +1,4 @@
-import { Fetcher, FetchUtils, FetchOptions, getOAuthHeader, log } from '@tableau/taco-toolkit/handlers'
+import { Fetcher, FetchUtils, FetchOptions, getOAuthHeader } from '@tableau/taco-toolkit/handlers'
 const myLogger = require('./Logger');
 
 //  Default settings for fetching activities
