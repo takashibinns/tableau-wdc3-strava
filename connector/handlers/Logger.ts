@@ -1,23 +1,25 @@
-import { log as tacoLogger } from '@tableau/taco-toolkit/handlers'
+import { log } from '@tableau/taco-toolkit/handlers'
 
 //  Use env variable to decide whether we are should use taco-toolkit's logger or not (true mean use it)
-const debugging = (process.env.DEBUGGING === "true");
+const isDebugMode = (process.env.DEBUGGING === "true");
 
 //  Define the logging function
-const Log = (message:string, level:string='Info', ) => {
+const Logger = (message:string, level:string='Info') => {
 
     //  Structure the message to include the log level
     const logMessage = `[${level}] ${message}`;
     const logMessageWithTimestamp = `${new Date()} ${logMessage}`;
 
     //  Should we use taco-toolkit's log function or just console.log()
-    if (debugging){
+    if (!isDebugMode){
+        //  Running on Tableau Desktop/Server/Cloud, use EPS logging
         try {
-            tacoLogger(logMessage);
+            log(logMessage);
         } catch (error) {
             console.error(`Taco Toolkit's log function didn't work, here's what it was trying to log: ${logMessageWithTimestamp}`);
         }
     } else {
+        //  Running from regular node, use console logging
         if (level.toLowerCase() == 'error') {
             console.error(logMessageWithTimestamp);
         } else if (level.toLocaleLowerCase() == 'warn') {
@@ -28,4 +30,4 @@ const Log = (message:string, level:string='Info', ) => {
     }
 }
 
-module.exports = { Log };
+module.exports = { Logger };

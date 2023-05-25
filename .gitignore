@@ -5,9 +5,9 @@ manifest.xml
 oauth-config.xml
 *.taco
 
-
 # Logs
 log*
+!connector/handlers/Logger.ts
 logs
 *.log
 npm-debug.log*

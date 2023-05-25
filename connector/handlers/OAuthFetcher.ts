@@ -1,4 +1,5 @@
 import { Fetcher, FetchUtils, FetchOptions, getOAuthHeader, log } from '@tableau/taco-toolkit/handlers'
+const myLogger = require('./Logger');
 
 //  Default settings for fetching activities
 const defaultSettings = {
@@ -82,9 +83,9 @@ export default class OAuthFetcher extends Fetcher {
     const activitiesUrl = `${handlerInput.data.url}?after=${filterAfter}&per_page=${activityFilters.pageSize}&page=${pageNumber}`;
     
     //  Get a list of all activities
-    log(`Making GET request to ${activitiesUrl}`);
+    myLogger.Logger(`Making GET request to ${activitiesUrl}`);
     let activities = await FetchUtils.fetchJson(activitiesUrl, {headers});
-    log(`Found ${activities.length} activities in our first API call, keep making API calls until it returns an empty resultset`);
+    myLogger.Logger(`Found ${activities.length} activities in our first API call, keep making API calls until it returns an empty resultset`);
 
     //  We have a single page of activities, but maybe there are more.  Make more API calls until we get an empty result
     let isComplete = false;
@@ -97,23 +98,23 @@ export default class OAuthFetcher extends Fetcher {
 
       //  Fetch more activities
       let moreActivities = await FetchUtils.fetchJson(moreActivitiesUrl, {headers});
-      log(`Found ${moreActivities.length} more activities`)
+      myLogger.Logger(`Found ${moreActivities.length} more activities`)
 
       //  Check the results
       if (moreActivities.length == 0) {
         //  No more activities to fetch, we have them all
         isComplete = true;
-        log(`[page ${pageNumber}] No activities found, we got them all`)
+        myLogger.Logger(`[page ${pageNumber}] No activities found, we got them all`)
       } else {
         //  We got some more activities, add them to the activities array
         activities.push(...moreActivities);
-        log(`[page ${pageNumber} of ${activityFilters.maxPagesToFetch}] Found another ${moreActivities.length} activities, adding them to the list`);
+        myLogger.Logger(`[page ${pageNumber} of ${activityFilters.maxPagesToFetch}] Found another ${moreActivities.length} activities, adding them to the list`);
       }
 
       //  To prevent the possibility of an infinite loop, cap the number of pages we can request
       if (pageNumber >= activityFilters.maxPagesToFetch){
         isComplete = true;
-        log(`Stop fetching activities, we've hit the max number of pages to fetch (${activityFilters.maxPagesToFetch})`)
+        myLogger.Logger(`Stop fetching activities, we've hit the max number of pages to fetch (${activityFilters.maxPagesToFetch})`)
       }
     } while (!isComplete)
 
@@ -156,15 +157,14 @@ export default class OAuthFetcher extends Fetcher {
     //  Did the user ask to fetch activity stream data?
     if (getDataStreams){  
       //  Execute all the API calls for data streams, and get the result
-      log(`Fetch data streams for ${activityStreamPromises.length} activities (skipping manual entries)`)
+      myLogger.Logger(`Fetch data streams for ${activityStreamPromises.length} activities (skipping manual entries)`)
       results['activityStreams'] = await Promise.all(activityStreamPromises);
     } else {
-      log(`No stream types specified, so skip building that table`);
+      myLogger.Logger(`No stream types specified, so skip building that table`);
     }
 
     //  Pass along the strava activities
-    log(`Fetched data for ${activities.length} activities`);
+    myLogger.Logger(`Fetched data for ${activities.length} activities`);
     yield results;
-    //yield await FetchUtils.fetchJson(data.url, {headers} )
   }
 }
