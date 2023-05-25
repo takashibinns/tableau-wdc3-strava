@@ -39,8 +39,8 @@ Since Strava limits the number of API calls, it's recommended to specify a time 
 Once the web data connector has fetched all the necessary data, it will show the available tables to analyze.  
 
 * **Activities** - A list of all activities returned by the Strava API
-* **ActivityStreams** - This appears when you have selected 1 or more Data Streams.  For each row in the Activity table, you will find many rows in the ActivityStreams table.  It allows you to track your stats throughout the duration of the activity (GPS coordinates, speed, heart rate, etc)
-
+* **ActivityStreams** - This appears when you have selected 1 or more Data Streams.  For each row in the Activity table, you will find many rows in the ActivityStreams table.  It allows you to track your stats throughout the duration of the activity (GPS coordinates, speed, heart rate, etc).  Join/Relate to Activities based on ```activity.id = activityStreams.activity_id```
+* **Gear** - A list of all gear used in your activities.  This could be shoes, bikes, etc.  Join/Relate to Activities based on ```activity.gear_id = gear.id```
 Drag the table(s) you want to analyze into the Data Source canvas, and you're all set!
 
 ## How this works
